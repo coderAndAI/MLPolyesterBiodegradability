@@ -48,19 +48,9 @@ def plot_map(mol, atom_contribution):
 
     # Coloring atoms of element 0 to 100 black
     d.drawOptions().updateAtomPalette({i: (0, 0, 0, 1) for i in range(100)})
-    cps = Draw.ContourParams()
-    cps.fillGrid = True
-    cps.gridResolution = 0.02
-    cps.extraGridPadding = 1.2
-    coolwarm = ((0.017, 0.50, 0.850, 0.5),
-                (1, 1, 1, 0.5),
-                (1, 0.25, 0.0, 0.5)
-                )
 
-    cps.setColourMap(coolwarm)
-
-    SimilarityMaps.GetSimilarityMapFromWeights(mol, atom_contribution, contourLines=5,
-                                               draw2d=d, contour_params=cps, sigma_f=0.4)
+    SimilarityMaps.GetSimilarityMapFromWeights(mol, atom_contribution, contourLines=0,
+                                               draw2d=d, sigma_f=0.4)
 
     d.FinishDrawing()
     return d

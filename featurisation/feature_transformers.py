@@ -145,7 +145,7 @@ class getFP_WithPred(BaseEstimator, TransformerMixin): # custom transformer for 
     def transform(self, X, y=None):
         mols = pd.Series(X)
 
-        best_model = load('chain_step1.joblib')
+        best_model = load('../models/chain_step1.joblib')
         pred = best_model.predict_proba(mols)
 
         # set up fingerprint generation

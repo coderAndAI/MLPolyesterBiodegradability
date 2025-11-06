@@ -169,13 +169,13 @@ explainer = shap.TreeExplainer(model)
 shap_values = explainer.shap_values(X, approximate=False, check_additivity=False)
 
 # Shap plot
-shap.summary_plot(shap_values[:, :, 1], best_model[:-1].transform(mols_new), feature_names=feature_names,
+shap.summary_plot(shap_values[:, :, 1], best_model[:-1].transform(mols_new), max_display=10, feature_names=feature_names,
                   color_bar_label='Bit Value')
 plt.show()
 
 # get list of top features
 vals = np.abs(shap_values[:, :, 1]).mean(0)  # shap vals for all features
-top_bits = feature_names_np[np.argsort(vals)][-9:][::-1]
+top_bits = feature_names_np[np.argsort(vals)][-10:][::-1]
 
 # visualise
 bit_data, fragments = get_collisions(top_bits)

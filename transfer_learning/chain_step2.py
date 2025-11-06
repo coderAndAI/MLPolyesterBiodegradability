@@ -31,7 +31,7 @@ space['model__max_features'] = [2, 5, 10]
 space['model__max_depth'] = [2, 4, 6]
 
 # define search
-search = RandomizedSearchCV(pipeline, space, scoring=['accuracy', 'precision', 'recall', 'f1', 'roc_auc'],  n_jobs=1,
+search = RandomizedSearchCV(pipeline, space, scoring=['accuracy', 'precision', 'recall', 'f1', 'roc_auc'],  n_jobs=-1,
                             cv=StratifiedKFold(n_splits=5, random_state=42, shuffle=True), refit='accuracy', verbose=2, random_state=42)
 
 # execute the nested cross-validation (for model evaluation)
