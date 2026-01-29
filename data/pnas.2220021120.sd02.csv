@@ -1,0 +1,1274 @@
+Unsuccessful Combination Attempt Number,Reagent Role,Reagent,Mass,Volume
+,,,mg,mL
+1,Monomer,Malonyl Chloride,1000,
+,Monomer,"cis-2-Butene-1,4-diol",568.2866265,
+,Base,NaOH,335.3613467,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+2,Monomer,Terephthaloyl Chloride,1000,
+,Monomer,"2,2-diethyl-1,3-propanediol",591.9703388,
+,Base,NaOH,232.8301735,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+3,Monomer,Terephthaloyl Chloride,1000,
+,Monomer,"1,2-propanediol",340.7187827,
+,Base,NaOH,232.8301735,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+4,Monomer,Malonyl Chloride,1000,
+,Monomer,Tripropylene glycol,1239.962592,
+,Base,NaOH,335.3613467,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+5,Monomer,Malonyl Chloride,1000,
+,Monomer,Resorcinol,710.1164178,
+,Base,NaOH,335.3613467,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+6,Monomer,Phthaloyl chloride,644.5637429,
+,Monomer,"1,3-Bis[2-(4-hydroxyphenyl)-2-propyl]benzene",1000,
+,Base,pyridine,296.7933732,
+,Solvent,DMF,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+7,Monomer,Phthaloyl chloride,769.1157934,
+,Monomer,"4,4′-(alpha-Methylbenzylidene)bisphenol",1000,
+,Base,pyridine,354.1441373,
+,Solvent,DMF,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+8,Monomer,Phthaloyl chloride,785.2667112,
+,Monomer,"4,4′-Isopropylidenebis(2,6-dimethylphenol)",1000,
+,Base,pyridine,361.5809276,
+,Solvent,DMF,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+9,Monomer,Phthaloyl chloride,637.3162866,
+,Monomer,"4,4′-(9-Fluorenylidene)diphenol",1000,
+,Base,pyridine,293.456237,
+,Solvent,DMF,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+10,Monomer,Phthaloyl chloride,832.2042109,
+,Monomer,"4,4′-Cyclohexylidenebisphenol",1000,
+,Base,pyridine,383.1935905,
+,Solvent,DMF,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+11,Monomer,Phthaloyl chloride,779.9734563,
+,Monomer,"(R)-(+)-1,1′-Binaphthyl-2,2′-diol",1000,
+,Base,pyridine,359.1436155,
+,Solvent,DMF,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+12,Monomer,Phthaloyl chloride,1827.661838,
+,Monomer,"2,2′-Thiodiethanol",1000,
+,Base,NaOH,425.5348228,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+13,Monomer,Phthaloyl chloride,1000,
+,Monomer,"Biphenyl-2,2′-diol",833.8184326,
+,Base,NaOH,232.8301735,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+14,Monomer,Phthaloyl chloride,1000,
+,Monomer,"1,3-Propanediol",340.7187827,
+,Base,NaOH,232.8301735,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+15,Monomer,Phthaloyl chloride,1000,
+,Monomer,"1,5-pentanediol",466.3579943,
+,Base,NaOH,232.8301735,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+16,Monomer,Phthaloyl chloride,1000,
+,Monomer,"1,8 octanediol",654.7944224,
+,Base,NaOH,232.8301735,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+17,Monomer,Phthaloyl chloride,1000,
+,Monomer,"1,9-nonanediol",717.5737276,
+,Base,NaOH,232.8301735,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+18,Monomer,Malonyl Chloride,1000,
+,Monomer,"2,7-Naphthalenediol",1031.958464,
+,Base,NaOH,335.3613467,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+19,Monomer,Phthaloyl chloride,1000,
+,Monomer,"1,10-decanediol",780.3978112,
+,Base,NaOH,232.8301735,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+20,Monomer,Phthaloyl chloride,1000,
+,Monomer,"2,2-diethyl-1,3-propanediol",591.9703388,
+,Base,NaOH,232.8301735,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+21,Monomer,Phthaloyl chloride,1000,
+,Monomer,"2,2-Dimethyl-1,3-propanediol",466.36695,
+,Base,NaOH,232.8301735,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+22,Monomer,Phthaloyl chloride,1000,
+,Monomer,"4,8-Bis(hydroxymethyl)tricyclo[5.2.1.02,6]decane",878.9550515,
+,Base,NaOH,232.8301735,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+23,Monomer,Phthaloyl chloride,1000,
+,Monomer,"1,2-propanediol",340.7187827,
+,Base,NaOH,232.8301735,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+24,Monomer,Phthaloyl chloride,1000,
+,Monomer,"2,3-Butanediol",403.5428664,
+,Base,NaOH,232.8301735,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+25,Monomer,Phthaloyl chloride,1000,
+,Monomer,"1,4 cyclohexanediol",520.1457984,
+,Base,NaOH,232.8301735,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+26,Monomer,Phthaloyl chloride,1000,
+,Monomer,diethylene glycol,475.1882931,
+,Base,NaOH,232.8301735,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+27,Monomer,Phthaloyl chloride,1000,
+,Monomer,triethylene glycol,672.4371087,
+,Base,NaOH,232.8301735,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+28,Monomer,Malonyl Chloride,1000,
+,Monomer,"2-Butyne-1,4-diol",1031.958464,
+,Base,NaOH,335.3613467,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+29,Monomer,Diglycolyl chloride,751.5003796,
+,Monomer,Bis(4-hydroxyphenyl) Sulfone,1000,
+,Base,pyridine,410.8762536,
+,Solvent,DMF,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+30,Monomer,Phthaloyl chloride,1000,
+,Monomer,dipropylene glycol,600.791682,
+,Base,NaOH,232.8301735,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+31,Monomer,Phthaloyl chloride,1000,
+,Monomer,Tripropylene glycol,860.8645812,
+,Base,NaOH,232.8301735,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+32,Monomer,Phthaloyl chloride,1000,
+,Monomer,Resorcinol,493.010093,
+,Base,NaOH,232.8301735,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+33,Monomer,Diglycolyl chloride,661.338303,
+,Monomer,"4,4′-Isopropylidenebis(2,6-dimethylphenol)",1000,
+,Base,pyridine,361.5809276,
+,Solvent,DMF,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+34,Monomer,Phthaloyl chloride,1000,
+,Monomer,"2-Butyne-1,4-diol",716.4542678,
+,Base,NaOH,232.8301735,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+35,Monomer,Phthaloyl chloride,3597.90559,
+,Monomer,ethylene glycol,1000,
+,Base,NaOH,837.7009828,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+36,Monomer,Phthaloyl chloride,1000,
+,Monomer,"1,4-Butanediol",403.551822,
+,Base,NaOH,232.8301735,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+37,Monomer,Phthaloyl chloride,1000,
+,Monomer,"1,6-Hexanediol",529.1462552,
+,Base,NaOH,232.8301735,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+38,Monomer,Phthaloyl chloride,1000,
+,Monomer,"2-Methyl-1,3,propanediol",591.9703388,
+,Base,NaOH,232.8301735,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+39,Monomer,Phthaloyl chloride,1000,
+,Monomer,"2-Butyl-2-ethyl-1,3-propanediol",717.5737276,
+,Base,NaOH,232.8301735,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+40,Monomer,Diglycolyl chloride,1000,
+,Monomer,dipropylene glycol,713.3742383,
+,Base,pyridine,546.7412457,
+,Solvent,DMF,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+41,Monomer,Diglycolyl chloride,1000,
+,Monomer,"Biphenyl-2,2′-diol",990.0679505,
+,Base,pyridine,546.7412457,
+,Solvent,DMF,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+42,Monomer,Diglycolyl chloride,1000,
+,Monomer,"2-Butyne-1,4-diol",850.7108753,
+,Base,pyridine,546.7412457,
+,Solvent,DMF,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+43,Monomer,Diglycolyl chloride,1000,
+,Monomer,"2,5-dimethyl-3-hexyne-2,5-diol",756.0692904,
+,Base,pyridine,546.7412457,
+,Solvent,DMF,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+44,Monomer,Diglycolyl chloride,1000,
+,Monomer,"trans-p-menth-6-ene-2,8diol",905.2095407,
+,Base,pyridine,546.7412457,
+,Solvent,DMF,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+45,Monomer,Sebacoyl Chloride,742.2935832,
+,Monomer,"Phenol Red, Free Acid",1000,
+,Base,NaOH,259.5888594,
+,Solvent,Water,,7.5
+,Solvent,hexanes,,7.5
+,,,,
+46,Monomer,Oxalyl Chloride,398.4560943,
+,Monomer,"4,4′-(9-Fluorenylidene)diphenol",1000,
+,Base,NaOH,148.3864616,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+47,Monomer,Oxalyl Chloride,520.3018446,
+,Monomer,"4,4′-Cyclohexylidenebisphenol",1000,
+,Base,NaOH,193.7622508,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+48,Monomer,Oxalyl Chloride,487.646689,
+,Monomer,"(R)-(+)-1,1′-Binaphthyl-2,2′-diol",1000,
+,Base,NaOH,181.6013551,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+49,Monomer,Oxalyl Chloride,639.6802126,
+,Monomer,"4,4′-Thiodiphenol",1000,
+,Base,NaOH,238.2191781,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+50,Monomer,Oxalyl Chloride,704.3840178,
+,Monomer,Guaiacol glyceryl ether,1000,
+,Base,NaOH,262.3151044,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+51,Monomer,Oxalyl Chloride,1142.67125,
+,Monomer,"2,2′-Thiodiethanol",1000,
+,Base,NaOH,425.5348228,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+52,Monomer,Oxalyl Chloride,955.6673511,
+,Monomer,Dianhydro-D-glucitol,1000,
+,Base,NaOH,355.8939083,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+53,Monomer,Oxalyl Chloride,1584.644195,
+,Monomer,"cis-2-Butene-1,4-diol",1000,
+,Base,NaOH,590.1271138,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+54,Monomer,Oxalyl Chloride,749.8147253,
+,Monomer,"Biphenyl-2,2′-diol",1000,
+,Base,NaOH,279.2336609,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+55,Monomer,Oxalyl Chloride,1834.971744,
+,Monomer,"1,3-propanediol",1000,
+,Base,NaOH,683.3499803,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+56,Monomer,Oxalyl Chloride,1340.595295,
+,Monomer,"1,5-pentanediol",1000,
+,Base,NaOH,499.2424388,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+57,Monomer,Oxalyl Chloride,871.2280045,
+,Monomer,"1,9-nonanediol",1000,
+,Base,NaOH,324.4483964,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+58,Monomer,Oxalyl Chloride,1340.595295,
+,Monomer,"2,2-Dimethyl-1,3-propanediol",1000,
+,Base,NaOH,499.2424388,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+59,Monomer,Oxalyl Chloride,1834.971744,
+,Monomer,"1,2-propanediol",1000,
+,Base,NaOH,683.3499803,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+60,Monomer,Oxalyl Chloride,1549.283741,
+,Monomer,"2,3-Butanediol",1000,
+,Base,NaOH,576.9587555,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+61,Monomer,Oxalyl Chloride,1202.006228,
+,Monomer,"1,4-cyclohexanediol",1000,
+,Base,NaOH,447.6313789,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+62,Monomer,Oxalyl Chloride,1315.708632,
+,Monomer,diethylene glycol,1000,
+,Base,NaOH,489.9745571,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+63,Monomer,Oxalyl Chloride,929.7662649,
+,Monomer,triethylene glycol,1000,
+,Base,NaOH,346.248252,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+64,Monomer,Oxalyl Chloride,501.6635527,
+,Monomer,"4,4′-Sulfonylbis(2-methylphenol)",1000,
+,Base,NaOH,186.8212849,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+65,Monomer,Oxalyl Chloride,905.1734198,
+,Monomer,2-Hydroxyethyl disulfide,1000,
+,Base,NaOH,337.0897893,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+66,Monomer,Oxalyl Chloride,1040.619201,
+,Monomer,dipropylene glycol,1000,
+,Base,NaOH,387.5302781,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+67,Monomer,Oxalyl Chloride,726.2574772,
+,Monomer,Tripropylene glycol,1000,
+,Base,NaOH,270.4608583,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+68,Monomer,Oxalyl Chloride,1268.031968,
+,Monomer,Resorcinol,1000,
+,Base,NaOH,472.2195986,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+69,Monomer,Oxalyl Chloride,871.7175501,
+,Monomer,"Naphthalene-1,5-diol",1000,
+,Base,NaOH,324.6307049,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+70,Monomer,Oxalyl Chloride,1621.841067,
+,Monomer,"2-Butyne-1,4-diol",1000,
+,Base,NaOH,603.9793609,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+71,Monomer,Oxalyl Chloride,611.603662,
+,Monomer,Bisphenol A,1000,
+,Base,NaOH,227.7633712,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+72,Monomer,Oxalyl Chloride,557.8894794,
+,Monomer,Bis(4-hydroxyphenyl) Sulfone,1000,
+,Base,NaOH,207.7600192,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+73,Monomer,Oxalyl Chloride,2249.444176,
+,Monomer,ethylene glycol,1000,
+,Base,NaOH,837.7009828,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+74,Monomer,Oxalyl Chloride,1549.26655,
+,Monomer,"1,4-Butanediol",1000,
+,Base,NaOH,576.9523535,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+75,Monomer,Oxalyl Chloride,1181.501546,
+,Monomer,"1,6-Hexanediol",1000,
+,Base,NaOH,439.9953628,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+76,Monomer,Oxalyl Chloride,1549.300932,
+,Monomer,"2-Methyl-1,3-propanediol",1000,
+,Base,NaOH,576.9651576,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+77,Monomer,Oxalyl Chloride,871.2823713,
+,Monomer,"2-Butyl-2-ethyl-1,3-propanediol",1000,
+,Base,NaOH,324.4686427,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+78,Monomer,Oxalyl Chloride,1181.443561,
+,Monomer,"3-methyl-1,5-pentanediol",1000,
+,Base,NaOH,439.9737688,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+79,Monomer,Succinyl Chloride,492.0108523,
+,Monomer,"1,3-Bis[2-(4-hydroxyphenyl)-2-propyl]benzene",1000,
+,Base,NaOH,150.0738881,
+,Solvent,Water,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+80,Monomer,Succinyl Chloride,1606.360724,
+,Monomer,diethylene glycol,1000,
+,Base,NaOH,489.9745571,
+,Solvent,Water,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+81,Monomer,Succinyl Chloride,1135.160152,
+,Monomer,triethylene glycol,1000,
+,Base,NaOH,346.248252,
+,Solvent,Water,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+82,Monomer,Isophthaloyl Chloride,785.2667112,
+,Monomer,"4,4′-Isopropylidenebis(2,6-dimethylphenol)",1000,
+,Base,pyridine,361.5809276,
+,Solvent,DMF,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+83,Monomer,Isophthaloyl Chloride,1689.273828,
+,Monomer,"2,2-diethyl-1,3-propanediol",1000,
+,Base,pyridine,777.8366112,
+,Solvent,DMF,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+84,Monomer,Isophthaloyl Chloride,1115.271674,
+,Monomer,"4,4'-Dihydroxydiphenylmethane",1000,
+,Base,pyridine,513.5337595,
+,Solvent,DMF,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+85,Monomer,Isophthaloyl Chloride,637.3162866,
+,Monomer,"4,4′-(9-Fluorenylidene)diphenol",1000,
+,Base,pyridine,293.456237,
+,Solvent,DMF,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+86,Monomer,Isophthaloyl Chloride,1487.127922,
+,Monomer,triethylene glycol,1000,
+,Base,pyridine,684.7572751,
+,Solvent,DMF,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+87,Monomer,Isophthaloyl Chloride,1664.433232,
+,Monomer,dipropylene glycol,1000,
+,Base,pyridine,766.3986048,
+,Solvent,DMF,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+88,Monomer,Isophthaloyl Chloride,1161.622887,
+,Monomer,Tripropylene glycol,1000,
+,Base,pyridine,534.8764629,
+,Solvent,DMF,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+89,Monomer,Isophthaloyl Chloride,1126.63707,
+,Monomer,Guaiacol glyceryl ether,1000,
+,Base,pyridine,518.7670265,
+,Solvent,DMF,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+90,Monomer,Isophthaloyl Chloride,1199.301863,
+,Monomer,"Biphenyl-2,2′-diol",1000,
+,Base,pyridine,552.2259814,
+,Solvent,DMF,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+91,Monomer,Isophthaloyl Chloride,2594.076841,
+,Monomer,"2-Butyne-1,4-diol",1000,
+,Base,pyridine,1194.458771,
+,Solvent,DMF,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+92,Monomer,Isophthaloyl Chloride,1447.792545,
+,Monomer,2-Hydroxyethyl disulfide,1000,
+,Base,pyridine,666.6450567,
+,Solvent,DMF,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+93,Monomer,Oxalyl Chloride,1223.260908,
+,Monomer,"1,5-hexadiene-3,5-diol",1000,
+,Base,NaOH,455.546697,
+,Solvent,Water,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+94,Monomer,Oxalyl Chloride,820.1057269,
+,Monomer,"trans-p-menth-6-ene-2,8diol",1000,
+,Base,NaOH,305.410279,
+,Solvent,Water,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+95,Monomer,Oxalyl Chloride,616.8319675,
+,Monomer,"2,4,7,9-Tetramethyl-5-decyne-4,7-diol",1000,
+,Base,NaOH,229.7104106,
+,Solvent,Water,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+96,Monomer,Oxalyl Chloride,981.8776371,
+,Monomer,"2,5-dimethyl-3-hexyne-2,5-diol",1000,
+,Base,NaOH,365.6547117,
+,Solvent,Water,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+98,Monomer,Succinyl Chloride,1001.274596,
+,Monomer,"trans-p-menth-6-ene-2,8diol",1000,
+,Base,NaOH,305.410279,
+,Solvent,Water,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+99,Monomer,Succinyl Chloride,753.0958008,
+,Monomer,"2,4,7,9-Tetramethyl-5-decyne-4,7-diol",1000,
+,Base,NaOH,229.7104106,
+,Solvent,Water,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+100,Monomer,Succinyl Chloride,1198.783404,
+,Monomer,"2,5-dimethyl-3-hexyne-2,5-diol",1000,
+,Base,NaOH,365.6547117,
+,Solvent,Water,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+101,Monomer,Adipoyl Chloride,1000,
+,Monomer,Dianhydro-D-glucitol,725.6634531,
+,Base,NaOH,258.2592024,
+,Solvent,Water,,7.5
+,Solvent,Cyclohexane,,7.5
+,,,,
+102,Monomer,Adipoyl Chloride,1000,
+,Monomer,"trans-p-menth-6-ene-2,8diol",845.6139828,
+,Base,NaOH,258.2592024,
+,Solvent,Water,,7.5
+,Solvent,Cyclohexane,,7.5
+,,,,
+103,Monomer,Azelaoyl chloride,1000,
+,Monomer,"1,5-hexadiene-3,5-diol",460.9463656,
+,Base,NaOH,209.9825944,
+,Solvent,Water,,7.5
+,Solvent,Hexanes,,7.5
+,,,,
+104,Monomer,Adipoyl Chloride,1000,
+,Monomer,"1,5-hexadiene-3,5-diol",566.9214684,
+,Base,NaOH,258.2592024,
+,Solvent,Water,,7.5
+,Solvent,Cyclohexane,,7.5
+,,,,
+105,Monomer,Sebacoyl Chloride,2304.660943,
+,Monomer,"1,5-hexadiene-3,5-diol",1000,
+,Base,NaOH,455.546697,
+,Solvent,Water,,7.5
+,Solvent,Hexanes,,7.5
+,,,,
+106,Monomer,Terephthaloyl Chloride,1000,
+,Monomer,"1,5-hexadiene-3,5-diol",511.1005633,
+,Base,NaOH,232.8301735,
+,Solvent,Water,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+107,Monomer,Isophthaloyl Chloride,1000,
+,Monomer,"trans-p-menth-6-ene-2,8diol",762.3521194,
+,Base,NaOH,232.8301735,
+,Solvent,Water,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+108,Monomer,Terephthaloyl Chloride,1000,
+,Monomer,"trans-p-menth-6-ene-2,8diol",762.3521194,
+,Base,NaOH,232.8301735,
+,Solvent,Water,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+109,Monomer,Malonyl Chloride,1000,
+,Monomer,"trans-p-menth-6-ene-2,8diol",1098.068303,
+,Base,NaOH,335.3613467,
+,Solvent,Water,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+110,Monomer,Azelaoyl chloride,1000,
+,Monomer,"trans-p-menth-6-ene-2,8diol",687.5426559,
+,Base,NaOH,209.9825944,
+,Solvent,Water,,7.5
+,Solvent,Hexanes,,7.5
+,,,,
+111,Monomer,Sebacoyl Chloride,1545.104258,
+,Monomer,"trans-p-menth-6-ene-2,8diol",1000,
+,Base,NaOH,305.410279,
+,Solvent,Water,,7.5
+,Solvent,Hexanes,,7.5
+,,,,
+112,Monomer,Terephthaloyl Chloride,1000,
+,Monomer,"2,5-dimethyl-3-hexyne-2,5-diol",636.7487305,
+,Base,NaOH,232.8301735,
+,Solvent,Water,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+113,Monomer,Sebacoyl Chloride,924.976265,
+,Monomer,"4,4′-Isopropylidenebis(2,6-dimethylphenol)",1000,
+,Base,pyridine,361.5809276,
+,Solvent,DMF,,7.5
+,Solvent,hexanes,,7.5
+,,,,
+114,Monomer,Azelaoyl chloride,1000,
+,Monomer,"2,5-dimethyl-3-hexyne-2,5-diol",574.2647029,
+,Base,NaOH,209.9825944,
+,Solvent,Water,,7.5
+,Solvent,Hexanes,,7.5
+,,,,
+115,Monomer,Malonyl Chloride,1000,
+,Monomer,"2,5-dimethyl-3-hexyne-2,5-diol",917.1530846,
+,Base,NaOH,335.3613467,
+,Solvent,Water,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+116,Monomer,Adipoyl Chloride,1000,
+,Monomer,"2,5-dimethyl-3-hexyne-2,5-diol",706.2925601,
+,Base,NaOH,258.2592024,
+,Solvent,Water,,7.5
+,Solvent,cylcohexane,,7.5
+,,,,
+117,Monomer,Malonyl Chloride,1000,
+,Monomer,"1,5-hexadiene-3,5-diol",736.173369,
+,Base,NaOH,335.3613467,
+,Solvent,Water,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+118,Monomer,Succinyl Chloride,1129.643701,
+,Monomer,"2,4,7,9-Tetramethyl-5-decyne-4,7-diol",1500,
+,Base,NaOH,344.565616,
+,Solvent,Water,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+119,Monomer,Sebacoyl Chloride,1743.195423,
+,Monomer,"2,4,7,9-Tetramethyl-5-decyne-4,7-diol",1500,
+,Base,NaOH,344.565616,
+,Solvent,Water,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+120,Monomer,Terephthaloyl Chloride,1479.90104,
+,Monomer,"2,4,7,9-Tetramethyl-5-decyne-4,7-diol",1500,
+,Base,NaOH,344.565616,
+,Solvent,Water,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+121,Monomer,Isophthaloyl Chloride,986.6006936,
+,Monomer,"2,4,7,9-Tetramethyl-5-decyne-4,7-diol",1000,
+,Base,NaOH,229.7104106,
+,Solvent,Water,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+122,Monomer,Adipoyl Chloride,1334.18524,
+,Monomer,"2,4,7,9-Tetramethyl-5-decyne-4,7-diol",1500,
+,Base,NaOH,344.565616,
+,Solvent,Water,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+123,Monomer,Suberoyl chloride,512.9089262,
+,Monomer,"2,4,7,9-Tetramethyl-5-decyne-4,7-diol",500,
+,Base,NaOH,114.8552053,
+,Solvent,Water,,7.5
+,Solvent,Diisopropyl Ether,,7.5
+,,,,
+124,Monomer,Sebacoyl Chloride,1000,
+,Monomer,Pinacol,449.3373984,
+,Base,NaOH,197.6632174,
+,Solvent,Water,,7.5
+,Solvent,Hexanes,,7.5
+,,,,
+125,Monomer,Sebacoyl Chloride,619.3878032,
+,Monomer,"4,4'-Methylenebis(2,6-di-tert-butylphenol)",1000,
+,Base,pyridine,242.1238521,
+,Solvent,DMF,,7.5
+,Solvent,Hexanes,,7.5
+,,,,
+126,Monomer,Malonyl Chloride,437.5105819,
+,Monomer,"4,4′-Thiodiphenol",1000,
+,Base,NaOH,259.5888594,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+127,Monomer,Terephthaloyl Chloride,630.1766465,
+,Monomer,"Phenol Red, Free Acid",1000,
+,Base,NaOH,259.5888594,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+128,Monomer,Sebacoyl Chloride,1000,
+,Monomer,"Biphenyl-2,2′-diol",449.337,
+,Base,NaOH,197.66,
+,Solvent,Water,,7.5
+,Solvent,Hexanes,,7.5
+,,,,
+129,Monomer,Azelaoyl chloride,1000,
+,Monomer,"2,2′-Thiodiethanol",493.4557247,
+,Base,NaOH,209.9825944,
+,Solvent,Water,,7.5
+,Solvent,Hexanes,,7.5
+,,,,
+130,Monomer,Malonyl Chloride,782.1864595,
+,Monomer,Guaiacol glyceryl ether,1000,
+,Base,NaOH,262.3151044,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+131,Monomer,Azelaoyl chloride,1000,
+,Monomer,Dianhydro-D-glucitol,590.0145787,
+,Base,NaOH,209.9825944,
+,Solvent,Water,,7.5
+,Solvent,Hexanes,,7.5
+,,,,
+132,Monomer,Azelaoyl chloride,1000,
+,Monomer,"4,4′-Sulfonylbis(2-methylphenol)",1123.975753,
+,Base,NaOH,209.9825944,
+,Solvent,Water,,7.5
+,Solvent,Hexanes,,7.5
+,,,,
+133,Monomer,Malonyl Chloride,1268.884524,
+,Monomer,"2,2′-Thiodiethanol",1000,
+,Base,NaOH,425.5348228,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+134,Monomer,Azelaoyl chloride,583.0492112,
+,Monomer,"4,4'-Methylenebis(2,6-di-tert-butylphenol)",1000,
+,Base,pyridine,242.1238521,
+,Solvent,DMF,,7.5
+,Solvent,Hexanes,,7.5
+,,,,
+135,Monomer,Azelaoyl chloride,922.7538662,
+,Monomer,"4,4′-Cyclohexylidenebisphenol",1000,
+,Base,pyridine,383.1935905,
+,Solvent,DMF,,7.5
+,Solvent,Hexanes,,7.5
+,,,,
+136,Monomer,Suberoyl chloride,500,
+,Monomer,"2,2′-Thiodiethanol",263.1148282,
+,Base,NaOH,111.9645218,
+,Solvent,Water,,7.5
+,Solvent,Hexanes,,7.5
+,,,,
+137,Monomer,Suberoyl chloride,500,
+,Monomer,"cis-2-Butene-1,4-diol",189.7294993,
+,Base,NaOH,111.9645218,
+,Solvent,Water,,7.5
+,Solvent,Hexanes,,7.5
+,,,,
+138,Monomer,Malonyl Chloride,1061.225188,
+,Monomer,Dianhydro-D-glucitol,1000,
+,Base,NaOH,355.8939083,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+139,Monomer,Dimethylmalonyl chloride,1000,
+,Monomer,"2,2′-Thiodiethanol",657.2499745,
+,Base,NaOH,279.6827514,
+,Solvent,Water,,7.5
+,Solvent,Hexanes,,7.5
+,,,,
+140,Monomer,Dimethylcarbonate,1852.1682,
+,Monomer,"1,4-dithiane-2,5-diol",1000,
+,Catalyst,DMAP,8.026938239,
+,,,,
+141,Monomer,Dimethylcarbonate,1928.972218,
+,Monomer,Dianhydro-D-glucitol,1000,
+,Catalyst,DMAP,8.35979198,
+,,,,
+142,Monomer,Dimethylcarbonate,1513.882176,
+,Monomer,"Biphenyl-2,2′-diol",1000,
+,Catalyst,DMAP,6.560872134,
+,,,,
+143,Monomer,Dimethylcarbonate,2385.34439,
+,Monomer,"2,5-hexanediol(+isomers)",1000,
+,Catalyst,DMAP,10.33762058,
+,,,,
+144,Monomer,Dimethylcarbonate,3704.823236,
+,Monomer,"1,2-propanediol",1000,
+,Catalyst,DMAP,16.05598633,
+,,,,
+145,Monomer,Dimethylcarbonate,3128.016777,
+,Monomer,"2,3-Butanediol",1000,
+,Catalyst,DMAP,13.55621886,
+,,,,
+146,Monomer,Dimethylcarbonate,1877.205833,
+,Monomer,triethylene glycol,1000,
+,Catalyst,DMAP,8.135446494,
+,,,,
+147,Monomer,Dimethylcarbonate,1466.319896,
+,Monomer,Tripropylene glycol,1000,
+,Catalyst,DMAP,6.354746424,
+,,,,
+148,Monomer,Dimethylcarbonate,2560.399637,
+,Monomer,Resorcinol,1000,
+,Catalyst,DMAP,11.09627611,
+,,,,
+149,Monomer,Dimethylcarbonate,4541.646528,
+,Monomer,ethylene glycol,1000,
+,Catalyst,DMAP,19.6826164,
+,,,,
+150,Monomer,Dimethylcarbonate,2385.546247,
+,Monomer,"3-methyl-1,5-pentanediol",1000,
+,Catalyst,DMAP,10.33849539,
+,,,,
+151,Monomer,Dimethylcarbonate,1929.104222,
+,Monomer,"2,2,4-Trimethyl-1,3-pentanediol",1000,
+,Catalyst,DMAP,8.360364059,
+,,,,
+152,Monomer,Dimethylcarbonate,827.5,
+,Monomer,"trans-p-menth-6-ene-2,8diol",470,
+,Catalyst,DMAP,3.5,
+,,,,
+153,Monomer,Dimethylcarbonate,1982.419128,
+,Monomer,"2,5-dimethyl-3-hexyne-2,5-diol",1000,
+,Catalyst,DMAP,8.591420534,
+,,,,
+154,monomer,[(Carboxymethyl)(methyl)amino]acetic acid,1244.813,
+,monomer,ethylene glycol,630.7393,
+,catalyst,Ti(Opr)4,2.4,
+,,,,
+155,monomer,[(Carboxymethyl)(methyl)amino]acetic acid,1244.813,
+,monomer,"1,3-Propanediol",708.7729267,
+,catalyst,Ti(Opr)4,2.4,
+,,,,
+156,monomer,Adipic acid,1237.53,
+,monomer,Dianhydro-D-glucitol,1237.19,
+,catalyst,Ti(Opr)4,2.4,
+,,,,
+157,monomer,succinic acid,1000000,
+,monomer,pinacol,1101,
+,catalyst,Ti(Opr)4,2.4,
+,,,,
+158,monomer,Adipic acid,1237.531,
+,monomer,"cis-2-Butene-1,4-diol",783.432,
+,catalyst,Ti(Opr)4,2.4,
+,,,,
+159,monomer,Succinic acid,1000000,
+,monomer,"1,2-Propanediol",773.3085,
+,catalyst,Ti(Opr)4,2.4,
+,,,,
+160,monomer,Malonic Acid,881.2,
+,monomer,ethylene glycol,630.7,
+,catalyst,Ti(Opr)4,2.4,
+,,,,
+161,monomer,Malonic Acid,881.2,
+,monomer,"1,9-nonanediol",1357,
+,catalyst,Ti(Opr)4,2.4,
+,,,,
+162,monomer,Malonic Acid,881.2,
+,monomer,"1,10-decanediol",1475.82,
+,catalyst,Ti(Opr)4,2.4,
+,,,,
+163,monomer,Malonic Acid,881.2,
+,monomer,"1,3-Propanediol",708.8,
+,catalyst,Ti(Opr)4,2.4,
+,,,,
+164,monomer,Malonic Acid,881.2,
+,monomer,"1,4-Butanediol",801.9,
+,catalyst,Ti(Opr)4,2.4,
+,,,,
+165,monomer,Malonic Acid,881.2,
+,monomer,"1,5-pentanediol",881.3,
+,catalyst,Ti(Opr)4,2.4,
+,,,,
+166,monomer,Malonic Acid,881.2,
+,monomer,"1,6-Hexanediol",1000700,
+,catalyst,Ti(Opr)4,2.4,
+,,,,
+167,monomer,Malonic Acid,881.2,
+,monomer,"2,5-hexanediol(+isomers)",1000.7,
+,catalyst,Ti(Opr)4,2.4,
+,,,,
+168,monomer,Malonic Acid,881.2,
+,monomer,"3-methyl-1,5-pentanediol",1000.7,
+,catalyst,Ti(Opr)4,2.4,
+,,,,
+169,monomer,Malonic Acid,881.2,
+,monomer,"1,7-heptanediol",1119.5,
+,catalyst,Ti(Opr)4,2.4,
+,,,,
+170,monomer,Malonic Acid,881.2,
+,monomer,"1,8-octanediol",1238.3,
+,catalyst,Ti(Opr)4,2.4,
+,,,,
+171,monomer,[(Carboxymethyl)(methyl)amino]acetic acid,1000,
+,monomer,"1,9-nonanediol",1204,
+,catalyst,Ti(Opr)4,,
+,,,,0.05
+172,monomer,"2,6-Naphthalenedicarboxylic Acid",1000,
+,monomer,"1,10-decanediol",806,
+,catalyst,Ti(Opr)4,,
+,,,,0.05
+173,monomer,[(Carboxymethyl)(methyl)amino]acetic acid,739,
+,monomer,Diethylene Glycol,589.1879221,
+,catalyst,Ti(Opr)4,,
+,,,,0.05
+174,monomer,"2,2′-[ethylenebis(oxy)] bisacetic acid",1000,
+,monomer,Diethylene Glycol,595.7112419,
+,catalyst,Ti(Opr)4,,
+,,,,0.05
+175,monomer,Diglycolic acid,1000,
+,monomer,Diethylene Glycol,791.4087553,
+,catalyst,Ti(Opr)4,,
+,,,,0.05
+176,monomer,Succinic acid,1000,
+,monomer,Diethylene Glycol,898.636633,
+,catalyst,Ti(Opr)4,,
+,,,,0.05
+177,monomer,pimelic acid,1000,
+,monomer,Triethylene Glycol,1031.322969,
+,catalyst,Ti(Opr)4,,
+,,,,0.05
+178,monomer,glutaric acid,1000,
+,monomer,Triethylene Glycol,1250.280052,
+,catalyst,Ti(Opr)4,,
+,,,,0.05
+179,monomer,"2,2′-[ethylenebis(oxy)] bisacetic acid",1000,
+,monomer,Triethylene Glycol,927.2875322,
+,catalyst,Ti(Opr)4,,
+,,,,0.05
+180,monomer,Diglycolic acid,1000,
+,monomer,Triethylene Glycol,1231.911403,
+,catalyst,Ti(Opr)4,,
+,,,,0.05
+181,monomer,Isophthalic acid,2000,
+,monomer,Triethylene Glycol,1988.647445,
+,catalyst,Ti(Opr)4,,
+,,,,0.05
+182,monomer,Succinic acid,1000,
+,monomer,Triethylene Glycol,1398.822932,
+,catalyst,Ti(Opr)4,,
+,,,,0.05
+183,monomer,"2,6-Naphthalenedicarboxylic Acid",1000,
+,monomer,Tripropylene glycol,889.2558547,
+,catalyst,Ti(Opr)4,,
+,,,,0.05
+184,monomer,"2,2′-[ethylenebis(oxy)] bisacetic acid",1000,
+,monomer,"2-Methyl-1,3-propanediol",640,
+,catalyst,Ti(Opr)4,,
+,,,,0.05
+185,monomer,"2,2′-[ethylenebis(oxy)] bisacetic acid",1000,
+,monomer,Tripropylene glycol,1133.16774,
+,catalyst,Ti(Opr)4,,
+,,,,0.05
+186,monomer,Diglycolic acid,1000,
+,monomer,Tripropylene glycol,1505.425461,
+,catalyst,Ti(Opr)4,,
+,,,,0.05
+187,monomer,Isophthalic acid,2000,
+,monomer,Tripropylene glycol,2430.175164,
+,catalyst,Ti(Opr)4,,
+,,,,0.05
+188,monomer,Adipic acid,1000,
+,monomer,Tripropylene glycol,1381.295333,
+,catalyst,Ti(Opr)4,,
+,,,,0.05
+189,monomer,[(Carboxymethyl)(methyl)amino]acetic acid,1000,
+,monomer,"2-Methyl-1,3-propanediol",1500,
+,catalyst,Ti(Opr)4,,
+,,,,0.05
+190a,monomer,[(Carboxymethyl)(methyl)amino]acetic acid,1000,
+,monomer,"2-Methyl-1,3-propanediol",673.771495,
+,catalyst,Ti(Opr)4,,
+,,,,0.05
+190b,monomer,"2,2′-[ethylenebis(oxy)] bisacetic acid",1000,
+,monomer,Dipropylene Glycol,790.8302506,
+,catalyst,Ti(Opr)4,,
+,,,,0.05
+191,monomer,Isophthalic acid,2000,
+,monomer,Dipropylene Glycol,1696.00313,
+,catalyst,Ti(Opr)4,,
+,,,,0.05
+192,monomer,"2,6-Naphthalenedicarboxylic Acid",1000,
+,monomer,"2-Methyl-1,3-propanediol",540,
+,catalyst,Ti(Opr)4,,
+,,,,0.05
+193,monomer,Succinic acid,1000,
+,monomer,Dipropylene Glycol,1136.16733,
+,catalyst,Ti(Opr)4,,
+,,,,0.05
+194,monomer,Isophthalic acid,2000,
+,monomer,Guaiacol glyceryl ether,2386.323963,
+,catalyst,Ti(Opr)4,,
+,,,,0.05
+195,monomer,sebacic acid,1000,
+,monomer,"1,4-Dithiane-2,5-diol",790.368356,
+,catalyst,Ti(Opr)4,,
+,,,,0.05
+196,monomer,"quinoline-2,4-dicarboxylic acid",1000,
+,monomer,Diethylene Glycol,537.4896399,
+,catalyst,Ti(Opr)4,,
+,,,,0.05
+197,monomer,Adipic acid,1000,
+,monomer,Dianhydro-D-glucitol,1050,
+,catalyst,Ti(Opr)4,,
+,,,,0.05
+198,monomer,Isophthalic acid,1000,
+,monomer,"2-Methyl-1,3-propanediol",596.713417,
+,catalyst,Ti(Opr)4,,
+,,,,0.05
+199,monomer,"2,6-Naphthalenedicarboxylic Acid",1000,
+,monomer,"3-methyl-1,5-pentanediol",601.313659,
+,catalyst,Ti(Opr)4,,
+,,,,0.05
+200,monomer,"2,6-Naphthalenedicarboxylic Acid",1000,
+,monomer,"1,4-Cyclohexanediol",591.035663,
+,catalyst,Ti(Opr)4,,
+,,,,0.05
+201,monomer,"2,6-Naphthalenedicarboxylic Acid",1000,
+,monomer,"2,2-Diethyl-1,3-propanediol",672.6490587,
+,catalyst,Ti(Opr)4,,
+,,,,0.05
+202,monomer,glutaric acid,1000,
+,monomer,"2,3-Butanediol",716.212534,
+,catalyst,Ti(Opr)4,,
+,,,,0.05
+203,monomer,"2,5-Furandicarboxylic Acid",800,
+,monomer,ethylene glycol,349.9365751,
+,catalyst,Ti(Opr)4,,
+,,,,0.05
+204,monomer,"2,5-Furandicarboxylic Acid",800,
+,monomer,"2,3-Butanediol",508.0761099,
+,catalyst,Ti(Opr)4,,
+,,,,0.05
+205,monomer,"2,5-Furandicarboxylic Acid",800,
+,monomer,"1,6-Hexanediol",635.9331155,
+,catalyst,Ti(Opr)4,,
+,,,,0.05
+206,monomer,"2,2′-[ethylenebis(oxy)] bisacetic acid",1000,
+,monomer,"2,3-Butanediol",531.188953,
+,catalyst,Ti(Opr)4,,
+,,,,0.05
+207,monomer,"2,6-Naphthalenedicarboxylic Acid",1000,
+,monomer,"2,2-Dimethyl-1,3-propanediol",506,
+,catalyst,Ti(Opr)4,,
+,,,,0.05
+208,monomer,pimelic acid,1000,
+,monomer,"2,3-Butanediol",603,
+,catalyst,Ti(Opr)4,,
+,,,,0.05
+209,monomer,"2,6-Naphthalenedicarboxylic Acid",1000,
+,monomer,"2,3-Butanediol",437.703989,
+,catalyst,Ti(Opr)4,,
+,,,,0.05
+210,monomer,Isophthalic acid,2000,
+,monomer,"4,4′-Isopropylidenedicyclohexanol",2923.060254,
+,catalyst,Ti(Opr)4,0,
+,,,,0.05
+211,monomer,"2,2′-[ethylenebis(oxy)] bisacetic acid",1000,
+,monomer,ethylene glycol,366,
+,catalyst,Ti(Opr)4,0,
+,,,,0.05
+212,monomer,"2,2′-[ethylenebis(oxy)] bisacetic acid",1000,
+,monomer,"1,2-Propanediol",449,
+,catalyst,Ti(Opr)4,0,
+,,,,0.05
+213,monomer,[(Carboxymethyl)(methyl)amino]acetic acid,1000,
+,monomer,"1,2-Propanediol",600,
+,catalyst,Ti(Opr)4,0,
+,,,,0.05
+214,Monomer,Lactide,631.3737515,
+,Monomer,Epsilon-Caprolactone,1000,
+,Catalyst,TBD,9.146661994,
+,Solvent,"THF, Anhydrous",,
+,Initiator,Benzyl Alcohol,18.94865954,6.5
+,,,,
+215,Quenching agent,Benzoic Acid,43.80585247,
+,Monomer,e-Decalactone,506.0036854,
+,Monomer,Massoia Lactone,1000,
+,Catalyst,triphenyl bismuth,78.51572252,
+,Co-Catalyst,tin octoate,24.07418415,
+,,,,
+216,Monomer,e-caprolactone,339.237948,
+,Monomer,Massoia Lactone,1000,
+,Catalyst,triphenyl bismuth,78.51572252,
+,Co-Catalyst,tin octoate,24.07418415,
+,,,,
+217,Monomer,Undecanoic delta-lactone,547.7025501,
+,Monomer,massoia lactone,1000,
+,Catalyst,Triphenyl Bismuth,78.51572252,
+,Co-Catalyst,tin octoate,24.07418415,
+,,,,
+218,Monomer,delta-Nonalactone,464.3048208,
+,Monomer,massoia lactone,1000,
+,Catalyst,Triphenyl Bismuth,78.51572252,
+,Co-Catalyst,tin octoate,24.07418415,
+,,,,
+219,Monomer,pentadecanolide,714.4385662,
+,Monomer,massoia lactone,1000,
+,Catalyst,Triphenyl Bismuth,78.51572252,
+,Co-Catalyst,tin octoate,24.07418415,
+,,,,
+220,Monomer,B-butyrolactone,255.86994,
+,Monomer,massoia lactone,1000,
+,Catalyst,Triphenyl Bismuth,78.51572252,
+,Co-Catalyst,tin octoate,24.07418415,
+,,,,
+221,Monomer,5-Dodecanolide,589.3716935,
+,Monomer,massoia lactone,1000,
+,Catalyst,Triphenyl Bismuth,78.51572252,
+,Co-Catalyst,tin octoate,24.07418415,
+,,,,
+222,Monomer,16--hexadecanolide,756.1374309,
+,Monomer,massoia lactone,1000,
+,Catalyst,Triphenyl Bismuth,78.51572252,
+,Co-Catalyst,tin octoate,24.07418415,
+,,,,
+223,Monomer,massoia lactone,456.4521381,
+,Monomer,Undecanoic delta-lactone,1000,
+,Catalyst,triphenyl bismuth,71.67733883,
+,Co-Catalyst,tin octoate,21.97742566,
+,,,,
+224,Monomer,massoia lactone,538.4393804,
+,Monomer,Delta-nonalactone,1000,
+,Catalyst,triphenyl bismuth,84.55191397,
+,Co-Catalyst,tin octoate,25.9249776,
+,,,,
+225,Monomer,massoia lactone,977.0588919,
+,Monomer,B-butyrolactone,1000,
+,Catalyst,triphenyl bismuth,153.4289697,
+,Co-Catalyst,tin octoate,47.04379138,
+,,,,
+226,Monomer,massoia lactone,424.1805345,
+,Monomer,5-Dodecanolide,1000,
+,Catalyst,triphenyl bismuth,66.6096823,
+,Co-Catalyst,tin octoate,20.42360061,
+,,,,
+227,Monomer,delta-Valerolactone,297.5688046,
+,Monomer,massoia lactone,1000,
+,Catalyst,triphenyl bismuth,78.51572252,
+,Co-Catalyst,tin octoate,24.07418415,
+,,,,
+228,Monomer,Undecanoic delta-lactone,1000,
+,Catalyst,TBD,3.776861298,
+,Solvent,"THF, Anhydrous",,6.5
+,Initiator,Benzyl Alcohol,11.73648795,
+,Quenching agent,Benzoic Acid,27.13262427,
+,,,,
+229,Monomer,Undecanoic delta-lactone,1000,
+,Catalyst,Triphenyl Bismuth,71.67,
+,,,,
+230,Monomer,delta-Nonalactone,1000,
+,Catalyst,TBD,4.455255409,
+,Solvent,"THF, Anhydrous",,
+,Initiator,Benzyl Alcohol,13.84457816,
+,Quenching agent,Benzoic Acid,32.00614518,
+,,,,
+231,Monomer,delta-Nonalactone,1000,
+,Catalyst,Triphenyl Bismuth,84.55,
+,,,,
+232,Monomer,Massoia Lactone,1000,
+,Catalyst,Triphenyl Bismuth,78.51,
+,,,,
+233,Monomer,e-Decalactone,590.6126414,
+,Monomer,lactide,1000,
+,Catalyst,triphenyl bismuth,91.64434885,
+,Co-Catalyst,tin octoate,28.09963228,
+,,,,
+234,Monomer,Massoia Lactone,583.6050787,
+,Monomer,lactide,1000,
+,Catalyst,triphenyl bismuth,91.64434885,
+,Co-Catalyst,tin octoate,28.09963228,
+,,,,
+235,Monomer,Lactide,1000,
+,Catalyst,TBD,4.828973843,
+,Solvent,"THF, Anhydrous",,
+,Initiator,Benzyl Alcohol,15.00589745,
+,Quenching agent,Benzoic Acid,34.69090405,
+,,,,
+236,Monomer,lactide,493.1230327,
+,Monomer,coumarin,1000,6.5
+,Catalyst,triphenyl bismuth,90.38387847,
+,Co-Catalyst,tin octoate,27.71315177,
+,,,,
+237,Monomer,coumarin,434.3458361,
+,Monomer,Massoia Lactone,1000,
+,Catalyst,triphenyl bismuth,78.51572252,
+,Co-Catalyst,tin octoate,24.07418415,
+,,,,
+238,Monomer,coumarin,396.516171,
+,Monomer,Undecanoic delta-lactone,1000,
+,Catalyst,triphenyl bismuth,71.67733883,
+,Co-Catalyst,tin octoate,21.97742566,
+,,,,
+239,Monomer,coumarin,467.7378057,
+,Monomer,Delta-nonalactone,1000,
+,Catalyst,triphenyl bismuth,84.55191397,
+,Co-Catalyst,tin octoate,25.9249776,
+,,,,
+240,Monomer,coumarin,368.4820978,
+,Monomer,5-Dodecanolide,1000,
+,Catalyst,triphenyl bismuth,66.6096823,
+,Co-Catalyst,tin octoate,20.42360061,
+,,,,
+241,Monomer,Phthaloyl chloride,1126.64,
+,Monomer,Guaiacol glyceryl ether,1000.00,
+,Base,NaOH,262.32,
+,Solvent,Water,,7.5
+,Solvent,Diethyl Ether,,7.5
+,,,,
+242,Monomer,lactide,837.09,
+,Monomer,B-butryolactone,1000.00,
+,Catalyst,triphenyl bismuth,153.43,
+,Co-Catalyst,tin octoate,47.04,
