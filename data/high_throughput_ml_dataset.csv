@@ -1,0 +1,659 @@
+polymer_number,monomer_1,monomer_1_mass_mg,monomer_2,monomer_2_mass_mg,monomer_other,base_mass_mg_total,base_reagents,base_volume_ml_total,catalyst_mass_mg_total,catalyst_reagents,catalyst_volume_ml_total,co-catalyst_mass_mg_total,co-catalyst_reagents,co-catalyst_volume_ml_total,initiator_mass_mg_total,initiator_reagents,initiator_volume_ml_total,quenching agent_mass_mg_total,quenching agent_reagents,quenching agent_volume_ml_total,solvent_mass_mg_total,solvent_reagents,solvent_volume_ml_total,solubility,physical_state,biodegradability,solubility_label,biodegradability_label
+1,Malonyl Chloride,679.16,Bisphenol A,1000,,227.76,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,no,0,0
+2,Terephthaloyl Chloride,1000,"2,5-hexanediol",529.15,,232.83,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,no,0,0
+3,Terephthaloyl Chloride,1000,"1,8 octanediol",654.79,,232.83,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,no,0,0
+4,Terephthaloyl Chloride,1000,"1,9-nonanediol",717.57,,232.83,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,no,0,0
+5,Terephthaloyl Chloride,1000,"1,10-decanediol",780.4,,232.83,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,no,0,0
+6,Terephthaloyl Chloride,1000,"2,2,4-Trimethyl-1,3-pentanediol",654.79,,232.83,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,no,0,0
+7,Terephthaloyl Chloride,1000,"2,2-Dimethyl-1,3-propanediol",466.37,,232.83,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,no,0,0
+8,Terephthaloyl Chloride,1000,"4,8-Bis(hydroxymethyl)tricyclo[5.2.1.02,6]decane",878.96,,232.83,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,yes,0,1
+9,Terephthaloyl Chloride,1000,"2,3-Butanediol",403.54,,232.83,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,no,0,0
+10,Terephthaloyl Chloride,1000,"1,4 cyclohexanediol",520.15,,232.83,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,no,0,0
+11,Terephthaloyl Chloride,1000,diethylene glycol,475.19,,232.83,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,no,0,0
+12,Terephthaloyl Chloride,1000,triethylene glycol,672.44,,232.83,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,no,0,0
+13,Terephthaloyl Chloride,802.39,"4,4′-Sulfonylbis(2-methylphenol)",1000,,186.82,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,no,0,0
+14,Terephthaloyl Chloride,1000,2-Hydroxyethyl disulfide,690.71,,232.83,pyridine,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,no,0,0
+15,Terephthaloyl Chloride,644.56,"1,3-Bis[2-(4-hydroxyphenyl)-2-propyl]benzene",1000,,296.79,pyridine,0,,,,,,,,,,,,,0,DMF; Diisopropyl Ether,15,no,solid,yes,0,1
+16,Terephthaloyl Chloride,769.12,"4,4′-(alpha-Methylbenzylidene)bisphenol",1000,,354.14,pyridine,0,,,,,,,,,,,,,0,DMF; Diisopropyl Ether,15,no,solid,yes,0,1
+17,Terephthaloyl Chloride,785.27,"4,4′-Isopropylidenebis(2,6-dimethylphenol)",1000,,361.58,pyridine,0,,,,,,,,,,,,,0,DMF; Diisopropyl Ether,15,no,solid,no,0,0
+18,Terephthaloyl Chloride,637.32,"4,4′-(9-Fluorenylidene)diphenol",1000,,293.46,pyridine,0,,,,,,,,,,,,,0,DMF; Diisopropyl Ether,15,no,solid,yes,0,1
+19,Terephthaloyl Chloride,832.2,"4,4′-Cyclohexylidenebisphenol",1000,,383.19,pyridine,0,,,,,,,,,,,,,0,DMF; Diisopropyl Ether,15,no,solid,yes,0,1
+20,Terephthaloyl Chloride,779.97,"(R)-(+)-1,1′-Binaphthyl-2,2′-diol",1000,,359.14,pyridine,0,,,,,,,,,,,,,0,DMF; Diisopropyl Ether,15,no,solid,yes,0,1
+21,Phthaloyl chloride,1023.15,"4,4′-Thiodiphenol",1000,,238.22,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,yes,crystalline,yes,1,1
+23,Malonyl Chloride,1000,"Naphthalene-1,5-diol",1031.96,,335.36,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,yes,0,1
+24,Diglycolyl chloride,542.84,"1,3-Bis[2-(4-hydroxyphenyl)-2-propyl]benzene",1000,,296.79,pyridine,0,,,,,,,,,,,,,0,DMF; Diisopropyl Ether,15,yes,amorphous,no,1,0
+25,Phthaloyl chloride,1528.56,Dianhydro-D-glucitol,1000,,355.89,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,no,0,0
+26,Phthaloyl chloride,1000,"cis-2-Butene-1,4-diol",394.54,,232.83,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,yes,amorphous,yes,1,1
+27,Diglycolyl chloride,647.74,"4,4′-(alpha-Methylbenzylidene)bisphenol",1000,,354.14,pyridine,0,,,,,,,,,,,,,0,DMF; Diisopropyl Ether,15,yes,fluid,no,1,0
+28,Oxalyl Chloride,402.99,"1,3-Bis[2-(4-hydroxyphenyl)-2-propyl]benzene",1000,,150.07,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,yes,0,1
+29,Diglycolyl chloride,700.87,"4,4′-Cyclohexylidenebisphenol",1000,,383.19,pyridine,0,,,,,,,,,,,,,0,DMF; Diisopropyl Ether,15,yes,fluid,yes,1,1
+30,Phthaloyl chloride,1000,"Naphthalene-1,5-diol",716.45,,232.83,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,yes,0,1
+31,Phthaloyl chloride,1000,"2,7-Naphthalenediol",716.45,,232.83,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,yes,0,1
+32,Phthaloyl chloride,978.24,Bisphenol A,1000,,227.76,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,yes,crystalline,yes,1,1
+33,Sebacoyl Chloride,1152.28,Bisphenol A,1000,,227.76,NaOH,0,,,,,,,,,,,,,0,Water; hexanes,15,yes,fluid,yes,1,1
+34,Diglycolyl chloride,536.74,"4,4′-(9-Fluorenylidene)diphenol",1000,,293.46,pyridine,0,,,,,,,,,,,,,0,DMF; Diisopropyl Ether,15,yes,fluid,yes,1,1
+35,Diglycolyl chloride,861.68,"4,4′-Thiodiphenol",1000,,471.11,pyridine,0,,,,,,,,,,,,,0,DMF; Diisopropyl Ether,15,no,solid,no,0,0
+36,Diglycolyl chloride,1000,"2,2′-Thiodiethanol",649.68,,546.74,pyridine,0,,,,,,,,,,,,,0,DMF; Diisopropyl Ether,15,yes,amorphous,yes,1,1
+37,Sebacoyl Chloride,1050.97,"4,4'-Dihydroxydiphenylmethane",800,,207.74,NaOH,0,,,,,,,,,,,,,0,Water; hexanes,15,no,solid,yes,0,1
+38,Oxalyl Chloride,480.86,"4,4′-(alpha-Methylbenzylidene)bisphenol",1000,,179.07,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,yes,0,1
+39,Diglycolyl chloride,656.88,"(R)-(+)-1,1′-Binaphthyl-2,2′-diol",1000,,359.14,pyridine,0,,,,,,,,,,,,,0,DMF; Diisopropyl Ether,15,yes,fluid,yes,1,1
+40,Diglycolyl chloride,1000,"cis-2-Butene-1,4-diol",468.48,,546.74,pyridine,0,,,,,,,,,,,,,0,DMF; Diisopropyl Ether,15,yes,crystalline,yes,1,1
+41,Diglycolyl chloride,1000,"Naphthalene-1,5-diol",850.71,,546.74,pyridine,0,,,,,,,,,,,,,0,DMF; Diisopropyl Ether,15,no,solid,yes,0,1
+42,Diglycolyl chloride,1000,"2,7-Naphthalenediol",850.71,,546.74,pyridine,0,,,,,,,,,,,,,0,DMF; Diisopropyl Ether,15,no,solid,yes,0,1
+43,Diglycolyl chloride,1000,2-Hydroxyethyl disulfide,820.14,,546.74,pyridine,0,,,,,,,,,,,,,0,DMF; Diisopropyl Ether,15,yes,fluid,yes,1,1
+44,Oxalyl Chloride,490.96,"4,4′-Isopropylidenebis(2,6-dimethylphenol)",1000,,182.83,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,yes,crystalline,yes,1,1
+45,Oxalyl Chloride,917.12,"1,4-Dithiane-2,5-diol",1000,,341.54,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,yes,0,1
+46,Sebacoyl Chloride,1205.18,"4,4′-Thiodiphenol",1000,,238.22,NaOH,0,,,,,,,,,,,,,0,Water; hexanes,15,no,solid,no,0,0
+47,Oxalyl Chloride,1181.54,"2,5-hexanediol",1000,,440.01,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,no,0,0
+48,Oxalyl Chloride,954.84,"1,8-octanediol",1000,,355.58,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,yes,crystalline,yes,1,1
+49,Oxalyl Chloride,801.14,"1,10-decanediol",1000,,298.35,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,yes,crystalline,yes,1,1
+50,Oxalyl Chloride,1056.15,"2,2-diethyl-1,3-propanediol",1000,,393.31,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,yes,0,1
+51,Oxalyl Chloride,711.31,"4,8-Bis(hydroxymethyl)tricyclo[5.2.1.02,6]decane",1000,,264.89,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,yes,0,1
+52,Malonyl Chloride,619.45,"4,4'-Dihydroxydiphenylmethane",800,,207.74,NaOH,0,,,,,,,,,,,,,15,Water; Diethyl Ether,15,no,solid,no,0,0
+53,Sebacoyl Chloride,1000,"2,2′-Thiodiethanol",464.51,,197.66,NaOH,0,,,,,,,,,,,,,0,Water; hexanes,15,no,solid,yes,0,1
+54,Sebacoyl Chloride,1000,"1,4-Dithiane-2,5-diol",578.74,,197.66,NaOH,0,,,,,,,,,,,,,0,Water; hexanes,15,no,solid,yes,0,1
+55,Oxalyl Chloride,871.72,"2,7-Naphthalenediol",1000,,324.63,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,yes,0,1
+56,Sebacoyl Chloride,1000,"cis-2-Butene-1,4-diol",334.95,,197.66,NaOH,0,,,,,,,,,,,,,0,Water; hexanes,15,yes,crystalline,no,1,0
+57,Succinyl Chloride,587.08,"4,4′-(alpha-Methylbenzylidene)bisphenol",1000,,179.07,NaOH,0,,,,,,,,,,,,,0,Water; Diisopropyl Ether,15,no,solid,yes,0,1
+58,Succinyl Chloride,681.13,Bis(4-hydroxyphenyl) Sulfone,1000,,207.76,NaOH,0,,,,,,,,,,,,,0,Water; Diisopropyl Ether,15,no,solid,yes,0,1
+59,Succinyl Chloride,635.24,"4,4′-Cyclohexylidenebisphenol",1000,,193.76,NaOH,0,,,,,,,,,,,,,0,Water; Diisopropyl Ether,15,yes,amorphous,no,1,0
+60,Succinyl Chloride,599.41,"4,4′-Isopropylidenebis(2,6-dimethylphenol)",1000,,182.83,NaOH,0,,,,,,,,,,,,,0,Water; Diisopropyl Ether,15,yes,crystalline,no,1,0
+61,Succinyl Chloride,780.99,"4,4′-Thiodiphenol",1000,,238.22,NaOH,0,,,,,,,,,,,,,0,Water; Diisopropyl Ether,15,no,solid,no,0,0
+62,Sebacoyl Chloride,1000,Resorcinol,418.55,,197.66,NaOH,0,,,,,,,,,,,,,0,Water; hexanes,15,yes,crystalline,yes,1,1
+63,Succinyl Chloride,915.46,"Biphenyl-2,2′-diol",1000,,279.23,NaOH,0,,,,,,,,,,,,,0,Water; Diisopropyl Ether,15,yes,amorphous,yes,1,1
+64,Succinyl Chloride,612.49,"4,4′-Sulfonylbis(2-methylphenol)",1000,,186.82,NaOH,0,,,,,,,,,,,,,0,Water; Diisopropyl Ether,15,yes,crystalline,no,1,0
+65,Succinyl Chloride,595.37,"(R)-(+)-1,1′-Binaphthyl-2,2′-diol",1000,,181.6,NaOH,0,,,,,,,,,,,,,0,Water; Diisopropyl Ether,15,yes,crystalline,yes,1,1
+66,Succinyl Chloride,1980.12,"2-Butyne-1,4-diol",1000,,603.98,NaOH,0,,,,,,,,,,,,,0,Water; Diisopropyl Ether,15,no,solid,yes,0,1
+67,Succinyl Chloride,1166.78,Dianhydro-D-glucitol,1000,,355.89,NaOH,0,,,,,,,,,,,,,0,Water; Diisopropyl Ether,15,yes,amorphous,yes,1,1
+68,Succinyl Chloride,1934.71,"cis-2-Butene-1,4-diol",1000,,590.13,NaOH,0,,,,,,,,,,,,,0,Water; Diisopropyl Ether,15,no,solid,yes,0,1
+69,Succinyl Chloride,1064.29,"Naphthalene-1,5-diol",1000,,324.63,NaOH,0,,,,,,,,,,,,,0,Water; Diisopropyl Ether,15,no,solid,yes,0,1
+70,Succinyl Chloride,1064.29,"2,7-Naphthalenediol",1000,,324.63,NaOH,0,,,,,,,,,,,,,0,Water; Diisopropyl Ether,15,no,solid,yes,0,1
+71,Sebacoyl Chloride,1000,"Naphthalene-1,5-diol",608.24,,197.66,NaOH,0,,,,,,,,,,,,,0,Water; hexanes,15,no,solid,yes,0,1
+72,Succinyl Chloride,1105.13,2-Hydroxyethyl disulfide,1000,,337.09,NaOH,0,,,,,,,,,,,,,0,Water; Diisopropyl Ether,15,yes,crystalline,yes,1,1
+73,Isophthaloyl Chloride,978.24,Bisphenol A,1000,,450.44,pyridine,0,,,,,,,,,,,,,0,DMF; Diisopropyl Ether,15,yes,crystalline,no,1,0
+74,Isophthaloyl Chloride,644.56,"1,3-Bis[2-(4-hydroxyphenyl)-2-propyl]benzene",1000,,296.79,pyridine,0,,,,,,,,,,,,,0,DMF; Diisopropyl Ether,15,no,solid,no,0,0
+75,Isophthaloyl Chloride,769.12,"4,4′-(alpha-Methylbenzylidene)bisphenol",1000,,354.14,pyridine,0,,,,,,,,,,,,,0,DMF; Diisopropyl Ether,15,no,solid,no,0,0
+76,Isophthaloyl Chloride,892.32,Bis(4-hydroxyphenyl) Sulfone,1000,,410.88,pyridine,0,,,,,,,,,,,,,0,DMF; Diisopropyl Ether,15,no,solid,no,0,0
+77,Isophthaloyl Chloride,832.2,"4,4′-Cyclohexylidenebisphenol",1000,,383.19,pyridine,0,,,,,,,,,,,,,0,DMF; Diisopropyl Ether,15,no,solid,no,0,0
+78,Isophthaloyl Chloride,785.27,"4,4′-Isopropylidenebis(2,6-dimethylphenol)",1000,,361.58,pyridine,0,,,,,,,,,,,,,0,DMF; Diisopropyl Ether,15,no,solid,no,0,0
+79,Sebacoyl Chloride,1000,"2,7-Naphthalenediol",608.24,,197.66,NaOH,0,,,,,,,,,,,,,0,Water; hexanes,15,no,solid,yes,0,1
+80,Isophthaloyl Chloride,1023.15,"4,4′-Thiodiphenol",1000,,471.11,pyridine,0,,,,,,,,,,,,,0,DMF; Diisopropyl Ether,15,no,solid,no,0,0
+81,Isophthaloyl Chloride,802.39,"4,4′-Sulfonylbis(2-methylphenol)",1000,,369.47,pyridine,0,,,,,,,,,,,,,0,DMF; Diisopropyl Ether,15,no,solid,no,0,0
+82,Isophthaloyl Chloride,779.97,"(R)-(+)-1,1′-Binaphthyl-2,2′-diol",1000,,359.14,pyridine,0,,,,,,,,,,,,,0,DMF; Diisopropyl Ether,15,no,solid,no,0,0
+83,Sebacoyl Chloride,1000,"2-Butyne-1,4-diol",327.27,,197.66,NaOH,0,,,,,,,,,,,,,0,Water; hexanes,15,no,solid,no,0,0
+84,Isophthaloyl Chloride,1528.56,Dianhydro-D-glucitol,1000,,355.89,NaOH,0,,,,,,,,,,,,,0,Water; Diisopropyl Ether,15,yes,crystalline,no,1,0
+85,Isophthaloyl Chloride,2534.58,"cis-2-Butene-1,4-diol",1000,,1167.06,pyridine,0,,,,,,,,,,,,,0,DMF; Diisopropyl Ether,15,no,fluid,no,0,0
+86,Isophthaloyl Chloride,2028.17,Resorcinol,1000,,933.88,pyridine,0,,,,,,,,,,,,,0,DMF; Diisopropyl Ether,15,no,solid,no,0,0
+87,Isophthaloyl Chloride,1394.28,"Naphthalene-1,5-diol",1000,,642.01,pyridine,0,,,,,,,,,,,,,0,DMF; Diisopropyl Ether,15,no,solid,yes,0,1
+88,Isophthaloyl Chloride,1394.28,"2,7-Naphthalenediol",1000,,642.01,pyridine,0,,,,,,,,,,,,,0,DMF; Diisopropyl Ether,15,no,solid,yes,0,1
+89,Terephthaloyl chloride,1889.68,"3-methyl-1,5-pentanediol",1000,,870.11,pyridine,0,,,,,,,,,,,,,0,DMF; Diisopropyl Ether,15,no,solid,yes,0,1
+90,Sebacoyl Chloride,759.24,"1,3-Bis[2-(4-hydroxyphenyl)-2-propyl]benzene",1000,,296.79,pyridine,0,,,,,,,,,,,,,0,DMF; hexanes,15,yes,fluid,yes,1,1
+91,Adipoyl Chloride,1000,"Naphthalene-1,5-diol",794.7,,258.26,NaOH,0,,,,,,,,,,,,,0,Water; Cyclohexane,15,no,solid,yes,0,1
+92,Adipoyl Chloride,1000,"2,7-Naphthalenediol",794.7,,258.26,NaOH,0,,,,,,,,,,,,,0,Water; Cyclohexane,15,no,solid,yes,0,1
+93,Adipoyl Chloride,1000,Guaiacol glyceryl ether,984.54,,258.26,NaOH,0,,,,,,,,,,,,,0,Water; Cyclohexane,15,yes,fluid,yes,1,1
+94,Adipoyl Chloride,1000,Bis(4-hydroxyphenyl) Sulfone,1243.06,,258.26,NaOH,0,,,,,,,,,,,,,0,Water; Cyclohexane,15,no,solid,yes,0,1
+95,Sebacoyl Chloride,905.95,"4,4′-(alpha-Methylbenzylidene)bisphenol",1000,,354.14,pyridine,0,,,,,,,,,,,,,0,DMF; hexanes,15,yes,fluid,yes,1,1
+96,Isophthaloyl Chloride,1000,"2,5-dimethyl-3-hexyne-2,5-diol",762.35,,232.83,NaOH,0,,,,,,,,,,,,,0,Water; Diisopropyl Ether,15,no,solid,no,0,0
+97,Sebacoyl Chloride,1000,"2,5-dimethyl-3-hexyne-2,5-diol",540.57,,197.66,NaOH,0,,,,,,,,,,,,,0,Water; Hexanes,15,no,solid,no,0,0
+98,Adipoyl Chloride,1000,"2,2′-Thiodiethanol",606.9,,258.26,NaOH,0,,,,,,,,,,,,,0,Water; cylcohexane,15,no,solid,yes,0,1
+99,Adipoyl Chloride,1000,"1,4-Dithiane-2,5-diol",756.16,,258.26,NaOH,0,,,,,,,,,,,,,0,Water; cylcohexane,15,no,solid,no,0,0
+100,Adipoyl Chloride,1000,"cis-2-Butene-1,4-diol",437.63,,258.26,NaOH,0,,,,,,,,,,,,,0,Water; cylcohexane,15,no,solid,no,0,0
+101,Adipoyl Chloride,1000,Resorcinol,546.86,,258.26,NaOH,0,,,,,,,,,,,,,0,Water; cylcohexane,15,no,solid,yes,0,1
+102,Adipoyl Chloride,1000,"Biphenyl-2,2′-diol",587.09,,258.26,NaOH,0,,,,,,,,,,,,,0,Water; cylcohexane,15,yes,fluid,no,1,0
+103,Malonyl Chloride,619.51,Bis(4-hydroxyphenyl) Sulfone,1000,,207.76,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,no,0,0
+104,Sebacoyl Chloride,375.35,"4,4′-(9-Fluorenylidene)diphenol",500,,146.73,pyridine,0,,,,,,,,,,,,,0,DMF; hexanes,15,yes,amorphous,no,1,0
+105,Adipoyl Chloride,1000,"4,4′-Sulfonylbis(2-methylphenol)",1382.39,,258.26,NaOH,0,,,,,,,,,,,,,0,Water; cylcohexane,15,yes,crystalline,no,1,0
+106,Adipoyl Chloride,881.92,Bisphenol A,1000,,227.76,NaOH,0,,,,,,,,,,,,,0,Water; cylcohexane,15,no,solid,yes,0,1
+107,Adipoyl Chloride,581.1,"1,3-Bis[2-(4-hydroxyphenyl)-2-propyl]benzene",1000,,150.07,NaOH,0,,,,,,,,,,,,,0,Water; cylcohexane,15,yes,crystalline,no,1,0
+108,Adipoyl Chloride,707.95,"4,4′-Isopropylidenebis(2,6-dimethylphenol)",1000,,182.83,NaOH,0,,,,,,,,,,,,,0,Water; cylcohexane,15,no,solid,no,0,0
+109,Adipoyl Chloride,693.39,"4,4′-(alpha-Methylbenzylidene)bisphenol",1000,,179.07,NaOH,0,,,,,,,,,,,,,0,Water; cylcohexane,15,no,solid,yes,0,1
+110,Adipoyl Chloride,750.26,"4,4′-Cyclohexylidenebisphenol",1000,,193.76,NaOH,0,,,,,,,,,,,,,0,Water; cylcohexane,15,no,solid,yes,0,1
+111,Adipoyl Chloride,804.46,Bis(4-hydroxyphenyl) Sulfone,1000,,207.76,NaOH,0,,,,,,,,,,,,,0,Water; cylcohexane,15,no,solid,no,0,0
+112,Adipoyl Chloride,2338.63,"2-Butyne-1,4-diol",1000,,603.97,NaOH,0,,,,,,,,,,,,,0,Water; cylcohexane,15,yes,crystalline,yes,1,1
+113,Adipoyl Chloride,922.4,"4,4′-Thiodiphenol",1000,,238.22,NaOH,0,,,,,,,,,,,,,0,Water; cylcohexane,15,yes,crystalline,no,1,0
+114,Sebacoyl Chloride,1000,Dianhydro-D-glucitol,555.4,,197.66,NaOH,0,,,,,,,,,,,,,0,Water; Hexanes,15,yes,fluid,yes,1,1
+115,Sebacoyl Chloride,1000,Guaiacol glyceryl ether,753.53,,197.66,NaOH,0,,,,,,,,,,,,,0,Water; Hexanes,15,yes,crystalline,yes,1,1
+116,Sebacoyl Chloride,1051.08,Bis(4-hydroxyphenyl) Sulfone,1000,,207.76,NaOH,0,,,,,,,,,,,,,0,Water; Hexanes,15,no,solid,yes,0,1
+117,Terephthaloyl Chloride,1000,Tripropylene glycol,860.86,,232.83,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,yes,0,1
+118,Terephthaloyl Chloride,1000,Resorcinol,493.01,,232.83,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,yes,0,1
+119,Terephthaloyl Chloride,1000,"Naphthalene-1,5-diol",716.45,,232.83,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,yes,0,1
+120,Terephthaloyl Chloride,1000,"2,7-Naphthalenediol",716.45,,232.83,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,yes,0,1
+121,Terephthaloyl Chloride,1000,"2-Butyne-1,4-diol",716.45,,232.83,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,yes,0,1
+122,Terephthaloyl Chloride,978.24,Bisphenol A,1000,,227.76,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,yes,0,1
+123,Terephthaloyl Chloride,892.23,"4,4'-Dihydroxydiphenylmethane",800,,207.74,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,yes,0,1
+124,Terephthaloyl Chloride,892.32,Bis(4-hydroxyphenyl) Sulfone,1000,,207.76,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,no,0,0
+125,Terephthaloyl Chloride,1023.15,"4,4′-Thiodiphenol",1000,,238.22,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,no,0,0
+126,Terephthaloyl Chloride,1126.64,Guaiacol glyceryl ether,1000,,262.32,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,yes,crystalline,yes,1,1
+127,Terephthaloyl Chloride,1827.66,"2,2′-Thiodiethanol",1000,,425.53,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,no,0,0
+128,Terephthaloyl Chloride,1466.91,"1,4-Dithiane-2,5-diol",1000,,341.54,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,no,0,0
+129,Terephthaloyl Chloride,1528.56,Dianhydro-D-glucitol,1000,,355.89,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,no,0,0
+130,Malonyl Chloride,710.34,"4,4′-Thiodiphenol",1000,,238.22,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,no,0,0
+131,Terephthaloyl Chloride,1000,"cis-2-Butene-1,4-diol",394.54,,232.83,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,no,0,0
+132,Sebacoyl Chloride,980.26,"4,4′-Cyclohexylidenebisphenol",1000,,383.19,pyridine,0,,,,,,,,,,,,,0,DMF; Hexanes,15,yes,fluid,yes,1,1
+133,Sebacoyl Chloride,918.74,"(R)-(+)-1,1′-Binaphthyl-2,2′-diol",1000,,359.14,pyridine,0,,,,,,,,,,,,,0,DMF; Hexanes,15,yes,crystalline,no,1,0
+134,Sebacoyl Chloride,1000,"4,4′-Sulfonylbis(2-methylphenol)",1058.03,,197.66,NaOH,0,,,,,,,,,,,,,0,Water; Hexanes,15,no,fluid,yes,0,1
+135,Azelaoyl chloride,1084.68,Bisphenol A,1000,,227.76,NaOH,0,,,,,,,,,,,,,0,Water; Hexanes,15,yes,fluid,yes,1,1
+136,Azelaoyl chloride,989.31,"4,4'-Dihydroxydiphenylmethane",800,,207.74,NaOH,0,,,,,,,,,,,,,0,Water; Hexanes,15,no,solid,yes,0,1
+137,Azelaoyl chloride,1134.47,"4,4′-Thiodiphenol",1000,,238.22,NaOH,0,,,,,,,,,,,,,0,Water; Hexanes,15,no,solid,no,0,0
+138,Azelaoyl chloride,1000,"1,4-Dithiane-2,5-diol",614.81,,209.98,NaOH,0,,,,,,,,,,,,,0,Water; Hexanes,15,no,solid,no,0,0
+139,Azelaoyl chloride,1000,"cis-2-Butene-1,4-diol",355.83,,209.98,NaOH,0,,,,,,,,,,,,,0,Water; Hexanes,15,no,solid,yes,0,1
+140,Azelaoyl chloride,1000,Resorcinol,444.63,,209.98,NaOH,0,,,,,,,,,,,,,0,Water; Hexanes,15,yes,crystalline,yes,1,1
+141,Azelaoyl chloride,1000,"Naphthalene-1,5-diol",646.15,,209.98,NaOH,0,,,,,,,,,,,,,0,Water; Hexanes,15,no,solid,yes,0,1
+142,Azelaoyl chloride,1000,"2,7-Naphthalenediol",646.15,,209.98,NaOH,0,,,,,,,,,,,,,0,Water; Hexanes,15,no,solid,yes,0,1
+143,Azelaoyl chloride,1000,"2-Butyne-1,4-diol",347.67,,209.98,NaOH,0,,,,,,,,,,,,,0,Water; Hexanes,15,no,solid,yes,0,1
+144,Azelaoyl chloride,1000,Guaiacol glyceryl ether,800.5,,209.98,NaOH,0,,,,,,,,,,,,,0,Water; Hexanes,15,yes,fluid,yes,1,1
+145,Azelaoyl chloride,989.42,Bis(4-hydroxyphenyl) Sulfone,1000,,207.76,NaOH,0,,,,,,,,,,,,,0,Water; Hexanes,15,no,solid,yes,0,1
+146,Azelaoyl chloride,1000,"Biphenyl-2,2′-diol",477.34,,209.98,NaOH,0,,,,,,,,,,,,,0,Water; Hexanes,15,yes,crystalline,yes,1,1
+147,Azelaoyl chloride,714.7,"1,3-Bis[2-(4-hydroxyphenyl)-2-propyl]benzene",1000,,296.79,pyridine,0,,,,,,,,,,,,,0,DMF; Hexanes,15,yes,fluid,yes,1,1
+148,Azelaoyl chloride,852.8,"4,4′-(alpha-Methylbenzylidene)bisphenol",1000,,354.14,pyridine,0,,,,,,,,,,,,,0,DMF; Hexanes,15,yes,amorphous,yes,1,1
+149,Azelaoyl chloride,870.71,"4,4′-Isopropylidenebis(2,6-dimethylphenol)",1000,,361.58,pyridine,0,,,,,,,,,,,,,0,DMF; Hexanes,15,yes,amorphous,yes,1,1
+150,Azelaoyl chloride,706.66,"4,4′-(9-Fluorenylidene)diphenol",1000,,293.46,pyridine,0,,,,,,,,,,,,,0,DMF; Hexanes,15,yes,amorphous,no,1,0
+151,Azelaoyl chloride,864.84,"(R)-(+)-1,1′-Binaphthyl-2,2′-diol",1000,,359.14,pyridine,0,,,,,,,,,,,,,0,DMF; Hexanes,15,yes,amorphous,yes,1,1
+152,Suberoyl chloride,406.85,Bisphenol A,400,,91.11,NaOH,0,,,,,,,,,,,,,0,Water; Hexanes,15,yes,amorphous,yes,1,1
+153,Suberoyl chloride,463.85,"4,4'-Dihydroxydiphenylmethane",400,,103.87,NaOH,0,,,,,,,,,,,,,0,Water; Hexanes,15,no,solid,no,0,0
+154,Suberoyl chloride,500,"4,4′-Thiodiphenol",470.01,,111.96,NaOH,0,,,,,,,,,,,,,0,Water; Hexanes,15,no,solid,no,0,0
+155,Malonyl Chloride,1018.42,"1,4-Dithiane-2,5-diol",1000,,341.54,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,no,0,0
+156,Suberoyl chloride,500,"1,4-Dithiane-2,5-diol",327.82,,111.96,NaOH,0,,,,,,,,,,,,,0,Water; Hexanes,15,no,solid,no,0,0
+157,Suberoyl chloride,500,Resorcinol,237.08,,111.96,NaOH,0,,,,,,,,,,,,,0,Water; Hexanes,15,yes,fluid,yes,1,1
+158,Suberoyl chloride,500,"Naphthalene-1,5-diol",344.53,,111.96,NaOH,0,,,,,,,,,,,,,0,Water; Hexanes,15,no,solid,yes,0,1
+159,Suberoyl chloride,500,"2,7-Naphthalenediol",344.53,,111.96,NaOH,0,,,,,,,,,,,,,0,Water; Hexanes,15,no,solid,yes,0,1
+160,Dimethylmalonyl chloride,814.36,Bisphenol A,1000,,227.76,NaOH,0,,,,,,,,,,,,,0,Water; Hexanes,15,no,solid,yes,0,1
+161,Dimethylmalonyl chloride,1000,"Biphenyl-2,2′-diol",635.79,,279.68,NaOH,0,,,,,,,,,,,,,0,Water; Hexanes,15,yes,crystalline,yes,1,1
+162,Dimethylmalonyl chloride,851.75,"4,4′-Thiodiphenol",1000,,238.22,NaOH,0,,,,,,,,,,,,,0,Water; Hexanes,15,no,solid,yes,0,1
+163,Dimethylmalonyl chloride,1000,"cis-2-Butene-1,4-diol",473.94,,279.68,NaOH,0,,,,,,,,,,,,,0,Water; Hexanes,15,no,solid,yes,0,1
+164,Dimethylmalonyl chloride,500,"Naphthalene-1,5-diol",430.31,,139.84,NaOH,0,,,,,,,,,,,,,0,Water; Hexanes,15,no,solid,yes,0,1
+165,Terephthaloyl Chloride,1000,"Biphenyl-2,2′-diol",833.82,,232.83,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,no,0,0
+166,Terephthaloyl Chloride,1000,"1,3-Propanediol",340.72,,232.83,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,no,0,0
+167,Terephthaloyl Chloride,1000,"1,5-pentanediol",466.36,,232.83,NaOH,0,,,,,,,,,,,,,0,Water; Diethyl Ether,15,no,solid,no,0,0
+168,Dimethylcarbonate,813.56,"1,3-Bis[2-(4-hydroxyphenyl)-2-propyl]benzene",1000,,,,,3.53,DMAP,0,,,,,,,,,,,,,yes,amorphous,no,1,0
+169,Dimethylcarbonate,3199.41,"cis-2-Butene-1,4-diol",1000,,,,,13.87,DMAP,0,,,,,,,,,,,,,no,fluid,no,0,0
+171,Dimethylcarbonate,2706.67,"1,5-pentanediol",1000,,,,,11.73,DMAP,0,,,,,,,,,,,,,yes,amorphous,yes,1,1
+172,Dimethylcarbonate,1927.82,"1,8-octanediol",1000,,,,,8.35,DMAP,0,,,,,,,,,,,,,yes,crystalline,no,1,0
+173,Dimethylcarbonate,1759.13,"1,9-nonanediol",1000,,,,,7.62,DMAP,0,,,,,,,,,,,,,yes,crystalline,no,1,0
+174,Dimethylcarbonate,1617.51,"1,10-decanediol",1000,,,,,7.01,DMAP,0,,,,,,,,,,,,,yes,crystalline,no,1,0
+175,Dimethylcarbonate,970.86,"4,4′-(alpha-Methylbenzylidene)bisphenol",1000,,,,,4.21,DMAP,0,,,,,,,,,,,,,no,solid,no,0,0
+176,Dimethylcarbonate,2132.38,"2,2-diethyl-1,3-propanediol",1000,,,,,9.24,DMAP,0,,,,,,,,,,,,,yes,amorphous,no,1,0
+177,Dimethylcarbonate,2706.73,"2,2-Dimethyl-1,3-propanediol",1000,,,,,11.73,DMAP,0,,,,,,,,,,,,,yes,crystalline,no,1,0
+178,Dimethylcarbonate,1436.14,"4,8-Bis(hydroxymethyl)tricyclo[5.2.1.02,6]decane",1000,,,,,6.22,DMAP,0,,,,,,,,,,,,,yes,amorphous,no,1,0
+179,Dimethylcarbonate,2426.86,"1,4-cyclohexanediol",1000,,,,,10.52,DMAP,0,,,,,,,,,,,,,yes,amorphous,no,1,0
+180,Dimethylcarbonate,2656.43,diethylene glycol,1000,,,,,11.51,DMAP,0,,,,,,,,,,,,,yes,fluid,yes,1,1
+181,Dimethylcarbonate,1012.86,"4,4′-Sulfonylbis(2-methylphenol)",1000,,,,,4.39,DMAP,0,,,,,,,,,,,,,no,solid,no,0,0
+182,Dimethylcarbonate,1827.55,2-Hydroxyethyl disulfide,1000,,,,,7.92,DMAP,0,,,,,,,,,,,,,yes,fluid,no,1,0
+183,Dimethylcarbonate,1172.73,"4,4′-Isopropylidenedicyclohexanol",1000,,,,,5.08,DMAP,0,,,,,,,,,,,,,yes,crystalline,no,1,0
+184,Dimethylcarbonate,2101.02,dipropylene glycol,1000,,,,,9.11,DMAP,0,,,,,,,,,,,,,yes,fluid,no,1,0
+185,Dimethylcarbonate,1760,"Naphthalene-1,5-diol",1000,,,,,7.63,DMAP,0,,,,,,,,,,,,,no,solid,yes,0,1
+186,Dimethylcarbonate,1760,"2,7-Naphthalenediol",1000,,,,,7.63,DMAP,0,,,,,,,,,,,,,no,solid,yes,0,1
+187,Dimethylcarbonate,3274.48,"2-Butyne-1,4-diol",1000,,,,,14.19,DMAP,0,,,,,,,,,,,,,yes,fluid,yes,1,1
+188,Dimethylcarbonate,1234.83,Bisphenol A,1000,,,,,5.35,DMAP,0,,,,,,,,,,,,,no,solid,no,0,0
+189,Dimethylcarbonate,1407.81,"4,4'-Dihydroxydiphenylmethane",1000,,,,,6.1,DMAP,0,,,,,,,,,,,,,no,solid,no,0,0
+191,Dimethylcarbonate,804.51,"4,4′-(9-Fluorenylidene)diphenol",1000,,,,,3.49,DMAP,0,,,,,,,,,,,,,no,solid,no,0,0
+192,Dimethylcarbonate,3127.98,"1,4-Butanediol",1000,,,,,13.56,DMAP,0,,,,,,,,,,,,,yes,crystalline,yes,1,1
+193,Dimethylcarbonate,2385.55,"1,6-Hexanediol",1000,,,,,10.34,DMAP,0,,,,,,,,,,,,,yes,crystalline,yes,1,1
+194,Dimethylcarbonate,3128.05,"2-Methyl-1,3-propanediol",1000,,,,,13.56,DMAP,0,,,,,,,,,,,,,yes,fluid,no,1,0
+195,Dimethylcarbonate,1759.13,"2-Butyl-2-ethyl-1,3-propanediol",1000,,,,,7.62,DMAP,0,,,,,,,,,,,,,yes,fluid,no,1,0
+196,Dimethylcarbonate,2469.77,"1,5-hexadiene-3,5-diol",1000,,,,,10.7,DMAP,0,,,,,,,,,,,,,no,solid,no,0,0
+197,Dimethylcarbonate,1050.49,"4,4′-Cyclohexylidenebisphenol",1000,,,,,4.55,DMAP,0,,,,,,,,,,,,,no,solid,yes,0,1
+198,Dimethylcarbonate,984.56,"(R)-(+)-1,1′-Binaphthyl-2,2′-diol",1000,,,,,4.27,DMAP,0,,,,,,,,,,,,,yes,crystalline,yes,1,1
+199,Dimethylcarbonate,1291.52,"4,4′-Thiodiphenol",1000,,,,,5.6,DMAP,0,,,,,,,,,,,,,no,solid,no,0,0
+200,Dimethylcarbonate,1422.16,Guaiacol glyceryl ether,1000,,,,,6.16,DMAP,0,,,,,,,,,,,,,yes,fluid,no,1,0
+201,Dimethylcarbonate,2307.06,"2,2′-Thiodiethanol",1000,,,,,10,DMAP,0,,,,,,,,,,,,,yes,fluid,yes,1,1
+202,Diglycolic acid,1135.58,ethylene glycol,630.74,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,yes,1,1
+203,Diglycolic acid,1135.58,"1,10-decanediol",1475.82,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,yes,1,1
+204,Diglycolic acid,1135.58,"1,2-Propanediol",773.31,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,yes,1,1
+205,Diglycolic acid,1135.58,"1,3-Propanediol",708.77,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,amorphous,yes,1,1
+206,Diglycolic acid,1135.58,"1,4-Butanediol",801.3,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,yes,1,1
+207,Diglycolic acid,1135.58,"1,5-pentanediol",881.95,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,yes,1,1
+208,Diglycolic acid,1135.58,"1,6-Hexanediol",1000.68,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,amorphous,yes,1,1
+209,Diglycolic acid,1135.58,"3-methyl-1,5-pentanediol",1000.68,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,yes,1,1
+210,Diglycolic acid,1135.58,"1,7-heptanediol",1119.49,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,amorphous,yes,1,1
+211,Diglycolic acid,1135.58,"1,8-octanediol",1238.29,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,yes,1,1
+212,Diglycolic acid,1135.58,"1,9-nonanediol",1357.02,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,yes,1,1
+213,"2,2′-Thiodiacetic acid",1271.49,"3-methyl-1,5-pentanediol",1000.68,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,yes,1,1
+214,"2,2′-Thiodiacetic acid",1271.49,"1,10-decanediol",1475.82,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,amorphous,yes,1,1
+215,[(Carboxymethyl)(methyl)amino]acetic acid,1244.81,"1,4-Butanediol",801.3,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,yes,1,1
+216,[(Carboxymethyl)(methyl)amino]acetic acid,1244.81,"1,6-Hexanediol",1000.68,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,no,1,0
+217,[(Carboxymethyl)(methyl)amino]acetic acid,1244.81,"3-methyl-1,5-pentanediol",1000.68,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,no,1,0
+218,[(Carboxymethyl)(methyl)amino]acetic acid,1244.81,"1,10-decanediol",1475.82,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,no,1,0
+219,"2,2′-Thiodiacetic acid",1271.49,ethylene glycol,630.74,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,yes,1,1
+220,"2,2′-Thiodiacetic acid",1271.49,"1,4-Butanediol",801.3,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,amorphous,yes,1,1
+221,"2,2′-Thiodiacetic acid",1271.49,"1,6-Hexanediol",1000.68,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,yes,1,1
+222,Adipic acid,1237.53,"2,2-Diethyl-1,3-propanediol",1231.43,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,no,1,0
+223,Adipic acid,1237.53,"1,2-Propanediol",773.31,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,yes,1,1
+224,Adipic acid,1237.53,"2-Methyl-1,3-propanediol",839.46,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,yes,1,1
+225,Adipic acid,1237.53,"2-Butyl-2-ethyl-1,3-propanediol",1424.69,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,no,1,0
+226,Adipic acid,1237.53,"2,2,4-Trimethyl-1,3-pentanediol",1300.21,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,no,1,0
+227,Adipic acid,1237.53,"2,2-Dimethyl-1,3-propanediol",926.05,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,amorphous,no,1,0
+228,Adipic acid,1237.53,"1,4-Cyclohexanedimethanol",1282.25,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,no,1,0
+229,Adipic acid,1237.53,"4,4′-Isopropylidenedicyclohexanol, mixture of isomers",2035.74,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,amorphous,no,1,0
+230,Adipic acid,1237.53,"4,8-Bis(hydroxymethyl)tricyclo[5.2.1.02,6]decane",1662.29,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,no,1,0
+231,Adipic acid,1237.53,"2-Butyne-1,4-diol",874.93,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,no,solid,yes,0,1
+232,Adipic acid,1237.53,"2,3-Butanediol",839.46,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,yes,1,1
+233,Succinic acid,1000,Resorcinol,932.34,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,no,solid,no,0,0
+234,Adipic acid,1237.53,"1,4-Cyclohexanediol",1033.2,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,yes,1,1
+235,Adipic acid,1237.53,Resorcinol,1101.03,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,no,solid,yes,0,1
+236,Succinic acid,1000,"2,3-Butanediol",839.46,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,yes,1,1
+237,Succinic acid,1000,"1,4-Cyclohexanediol",1033.2,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,amorphous,no,1,0
+238,Succinic acid,1000,"cis-2-Butene-1,4-diol",783.43,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,no,solid,yes,0,1
+239,Succinic acid,1000,"2,2-Diethyl-1,3-propanediol",1231.43,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,no,1,0
+240,Suberic Acid,1475.06,"1,4-Cyclohexanedimethanol",1221.19,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,no,1,0
+241,Succinic acid,1000,"2-Methyl-1,3-propanediol",839.46,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,yes,1,1
+242,Succinic acid,1000,"2-Butyl-2-ethyl-1,3-propanediol",1424.69,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,no,1,0
+243,Succinic acid,1000,"2,2,4-Trimethyl-1,3-pentanediol",1300.21,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,no,1,0
+244,Succinic acid,1000,"2,2-Dimethyl-1,3-propanediol",926.05,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,amorphous,no,1,0
+245,Succinic acid,1000,"1,4-Cyclohexanedimethanol",1282.25,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,no,1,0
+246,Succinic acid,1000,"4,4′-Isopropylidenedicyclohexanol",2035.74,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,amorphous,no,1,0
+247,Succinic acid,1000,"4,8-Bis(hydroxymethyl)tricyclo[5.2.1.02,6]decane",1662.29,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,no,solid,no,0,0
+248,Succinic acid,1000,Bisphenol A,1933.27,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,no,1,0
+249,[(Carboxymethyl)(methyl)amino]acetic acid,1244.81,"1,4-Cyclohexanedimethanol",1221.19,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,yes,1,1
+250,"2,2′-Thiodiacetic acid",1271.49,"2,3-Butanediol",839.46,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,yes,1,1
+251,"2,2′-Thiodiacetic acid",1271.49,Bisphenol A,1933.27,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,no,solid,yes,0,1
+252,[(Carboxymethyl)(methyl)amino]acetic acid,1244.81,"4,4′-Isopropylidenedicyclohexanol",2035.74,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,amorphous,no,1,0
+253,[(Carboxymethyl)(methyl)amino]acetic acid,1244.81,"2-Butyl-2-ethyl-1,3-propanediol",1356.85,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,no,1,0
+254,[(Carboxymethyl)(methyl)amino]acetic acid,1244.81,Resorcinol,932.34,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,no,solid,no,0,0
+255,[(Carboxymethyl)(methyl)amino]acetic acid,1244.81,"2,3-Butanediol",839.46,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,yes,1,1
+256,"2,2′-Thiodiacetic acid",1271.49,"1,4-Cyclohexanedimethanol",1221.19,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,yes,1,1
+257,"2,2′-Thiodiacetic acid",1271.49,"4,4′-Isopropylidenedicyclohexanol",2035.74,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,amorphous,no,1,0
+258,"2,2′-Thiodiacetic acid",1271.49,"2-Butyl-2-ethyl-1,3-propanediol",1356.85,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,no,1,0
+259,"2,2′-Thiodiacetic acid",1271.49,Resorcinol,932.34,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,no,solid,no,0,0
+260,Diglycolic acid,2271.15,"2,2-Diethyl-1,3-propanediol",2462.87,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,yes,1,1
+261,Diglycolic acid,2271.15,Bisphenol A,2066.39,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,amorphous,yes,1,1
+262,Diglycolic acid,2271.15,Resorcinol,1957.91,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,amorphous,no,1,0
+263,Diglycolic acid,2271.15,"2-Methyl-1,3-propanediol",1678.92,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,yes,1,1
+264,Diglycolic acid,2271.15,"2-Butyl-2-ethyl-1,3-propanediol",2849.38,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,no,1,0
+265,Diglycolic acid,2271.15,"2,2,4-Trimethyl-1,3-pentanediol",2600.42,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,no,1,0
+266,Diglycolic acid,2271.15,"2,2-Dimethyl-1,3-propanediol",1852.1,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,yes,1,1
+267,Diglycolic acid,2271.15,"1,4-Cyclohexanedimethanol",2442.37,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,yes,1,1
+268,Diglycolic acid,2271.15,"4,4′-Isopropylidenedicyclohexanol",4071.47,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,amorphous,no,1,0
+269,Diglycolic acid,2271.15,"4,8-Bis(hydroxymethyl)tricyclo[5.2.1.02,6]decane",3324.58,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,no,amorphous,yes,0,1
+270,Diglycolic acid,2271.15,Dianhydro-D-glucitol,3866.54,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,no,1,0
+271,Terephthaloyl Chloride,1500,ethylene glycol,458.6,,,,,4675.4,pyridine,0,,,,,,,,,,,,,no,solid,no,0,0
+272,Terephthaloyl Chloride,1500,"1,4-Butanediol",665.85,,,,,4675.4,pyridine,0,,,,,,,,,,,,,no,solid,no,0,0
+273,Terephthaloyl Chloride,1500,"cis-2-Butene-1,4-diol",651,,,,,4675.4,pyridine,0,,,,,,,,,,,,,no,solid,no,0,0
+274,Terephthaloyl Chloride,1500,"2-Methyl-1,3-propanediol",665.85,,,,,4675.4,pyridine,0,,,,,,,,,,,,,no,solid,no,0,0
+275,Terephthaloyl Chloride,1500,"2-Butyl-2-ethyl-1,3-propanediol",1183.85,,,,,4675.4,pyridine,0,,,,,,,,,,,,,yes,amorphous,no,1,0
+276,Terephthaloyl Chloride,1500,"1,4-Cyclohexanedimethanol",1065.49,,,,,4675.4,pyridine,0,,,,,,,,,,,,,no,solid,no,0,0
+277,Terephthaloyl Chloride,1500,"4,4′-Isopropylidenedicyclohexanol",1776.18,,,,,4675.4,pyridine,0,,,,,,,,,,,,,no,solid,no,0,0
+278,Terephthaloyl Chloride,1500,Bisphenol A,1686.78,,,,,4675.4,pyridine,0,,,,,,,,,,,,,no,solid,no,0,0
+279,"1,4-Cyclohexanedicarboxylic acid",1458.21,ethylene glycol,578.18,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,amorphous,no,1,0
+280,"1,4-Cyclohexanedicarboxylic acid",1458.21,"2,2-Dimethyl-1,3-propanediol",899.59,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,amorphous,no,1,0
+281,"1,4-Cyclohexanedicarboxylic acid",1458.21,"2-Methyl-1,3-propanediol",801.3,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,yes,1,1
+282,"1,4-Cyclohexanedicarboxylic acid",1458.21,"1,4-Butanediol",801.3,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,no,solid,no,0,0
+283,"1,4-Cyclohexanedicarboxylic acid",1458.21,"3-methyl-1,5-pentanediol",1020.69,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,no,1,0
+284,"1,4-Cyclohexanedicarboxylic acid",1458.21,"1,10-decanediol",1475.82,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,no,solid,no,0,0
+285,"1,4-Cyclohexanedicarboxylic acid",1458.21,"2-Butyl-2-ethyl-1,3-propanediol",1356.85,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,amorphous,no,1,0
+286,"1,4-Cyclohexanedicarboxylic acid",1458.21,"1,4-Cyclohexanediol",1003.68,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,amorphous,no,1,0
+287,"1,4-Cyclohexanedicarboxylic acid",1458.21,"1,4-Cyclohexanedimethanol",1221.19,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,amorphous,no,1,0
+288,"1,4-Cyclohexanedicarboxylic acid",1458.21,"4,4′-Isopropylidenedicyclohexanol",2035.74,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,no,1,0
+289,"1,4-Cyclohexanedicarboxylic acid",1458.21,"4,8-Bis(hydroxymethyl)tricyclo[5.2.1.02,6]decane",1662.29,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,no,solid,no,0,0
+290,azelaic acid,1593.87,ethylene glycol,630.73,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,no,solid,no,0,0
+291,pimelic acid,1356.34,"3-methyl-1,5-pentanediol",1000.68,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,no,fluid,no,0,0
+292,azelaic acid,1593.87,"1,3-Propanediol",708.77,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,no,1,0
+293,azelaic acid,1593.87,"1,4-Butanediol",801.3,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,no,1,0
+294,azelaic acid,1593.87,"1,5-pentanediol",881.95,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,no,1,0
+295,azelaic acid,1593.87,"3-methyl-1,5-pentanediol",1000.68,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,no,1,0
+296,azelaic acid,1593.87,"1,10-decanediol",1475.82,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,no,1,0
+297,pimelic acid,1356.34,ethylene glycol,630.74,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,yes,1,1
+298,pimelic acid,1356.34,"1,3-Propanediol",708.77,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,amorphous,yes,1,1
+299,pimelic acid,1356.34,"1,4-Butanediol",801.3,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,no,1,0
+300,Succinic acid,1000,ethylene glycol,630.74,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,no,1,0
+301,Succinic Acid,1000,"1,9-nonanediol",1357.02,,,,,2.41,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,no,1,0
+302,Succinic acid,1000,"1,10-decanediol",1475.82,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,no,1,0
+303,Succinic acid,1000,"1,3-Propanediol",708.77,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,yes,1,1
+304,Succinic acid,1000,"1,4-Butanediol",801.3,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,no,1,0
+305,Succinic acid,1000,"1,5-pentanediol",881.95,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,yes,1,1
+306,Succinic acid,1000,"1,6-Hexanediol",1000.68,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,no,1,0
+307,Succinic acid,1000,"2,5-hexanediol(+isomers)",1000.68,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,yes,1,1
+308,Succinic acid,1000,"3-methyl-1,5-pentanediol",1000.68,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,yes,1,1
+309,Succinic acid,1000,"1,7-heptanediol",1119.49,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,no,1,0
+310,Succinic acid,1000,"1,8-octanediol",1238.29,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,no,1,0
+311,glutaric acid,1118.72,ethylene glycol,630.74,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,yes,1,1
+312,glutaric acid,1118.72,"1,10-decanediol",1475.82,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,no,1,0
+313,azelaic acid,1593.87,"1,8-octanediol",1238.29,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,no,1,0
+314,glutaric acid,1118.72,"1,3-Propanediol",708.77,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,yes,1,1
+315,glutaric acid,1118.72,"1,4-Butanediol",801.3,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,yes,1,1
+316,glutaric acid,1118.72,"1,5-pentanediol",881.95,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,amorphous,yes,1,1
+317,glutaric acid,1118.72,"1,6-Hexanediol",1000.68,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,yes,1,1
+318,glutaric acid,1118.72,"3-methyl-1,5-pentanediol",1000.68,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,yes,1,1
+319,glutaric acid,1118.72,"1,7-heptanediol",1119.49,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,no,1,0
+320,glutaric acid,1118.72,"1,8-octanediol",1238.29,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,no,1,0
+321,glutaric acid,1118.72,"1,9-nonanediol",1357.02,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,no,1,0
+322,Adipic acid,1237.53,ethylene glycol,630.74,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,yes,1,1
+323,Adipic acid,1237.53,"1,10-decanediol",1475.82,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,no,1,0
+324,azelaic acid,1593.87,"1,9-nonanediol",1357.02,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,no,1,0
+325,Adipic acid,1237.53,"1,3-Propanediol",708.77,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,yes,1,1
+326,Adipic acid,1237.53,"1,4-Butanediol",801.3,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,yes,1,1
+327,Adipic acid,1237.53,"1,5-pentanediol",881.95,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,no,solid,yes,0,1
+328,Adipic acid,1237.53,"1,6-Hexanediol",1000.68,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,no,1,0
+329,Adipic acid,1237.53,"3-methyl-1,5-pentanediol",1000.68,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,no,1,0
+330,Adipic acid,1237.53,"1,7-heptanediol",1119.49,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,no,1,0
+331,Adipic acid,1237.53,"1,8-octanediol",1238.29,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,no,1,0
+332,Adipic acid,1237.53,"1,9-nonanediol",1357.02,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,no,solid,no,0,0
+333,Isophthalic acid,1406.88,ethylene glycol,630.74,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,no,solid,no,0,0
+334,Isophthalic acid,1406.88,"1,10-decanediol",1475.82,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,no,1,0
+335,Isophthalic acid,1406.88,"1,2-Propanediol",773.31,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,amorphous,no,1,0
+336,Isophthalic acid,1406.88,"1,3-Propanediol",708.77,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,no,solid,no,0,0
+337,Isophthalic acid,1406.88,"1,4-Butanediol",801.3,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,no,solid,no,0,0
+338,Isophthalic acid,1406.88,"1,5-pentanediol",881.95,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,yes,1,1
+339,Isophthalic acid,1406.88,"1,6-Hexanediol",1000.68,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,no,solid,no,0,0
+340,Isophthalic acid,1406.88,"3-methyl-1,5-pentanediol",1000.68,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,fluid,no,1,0
+341,Isophthalic acid,1406.88,"1,7-heptanediol",1119.49,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,amorphous,no,1,0
+342,Isophthalic acid,1406.88,"1,8-octanediol",1238.29,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,no,1,0
+343,Isophthalic acid,1406.88,"1,9-nonanediol",1357.02,,,,,2.4,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,no,1,0
+344,Terephthaloyl Chloride,860,"1,10-decanediol",174.28,,,,,4675.4,pyridine,0,,,,,,,,,,,,,yes,crystalline,no,1,0
+345,"1,4-Cyclohexanedicarboxylic acid",1500,"2,2,4-Trimethyl-1,3-pentanediol",1337.62,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,crystalline,no,1,0
+346,Isophthalic acid,2000,"1,2-Propanediol",961.96,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+347,[(Carboxymethyl)(methyl)amino]acetic acid,1000,"2,2,4-Trimethyl-1,3-pentanediol",1154,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,crystalline,no,1,0
+348,"2,6-Naphthalenedicarboxylic Acid",1000,"2,2,4-Trimethyl-1,3-pentanediol",710,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+349,"2,6-Naphthalenedicarboxylic Acid",1000,"1,4-Butanediol",438,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+350,"2,2′-Thiodiacetic acid",1000,"1,5-pentanediol",728,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+351,"1,4-Cyclohexanedicarboxylic acid",1000,"1,5-pentanediol",635,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+352,[(Carboxymethyl)(methyl)amino]acetic acid,1000,"1,5-pentanediol",822,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+353,"2,6-Naphthalenedicarboxylic Acid",1000,"1,5-pentanediol",506,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,yes,0,1
+354,"1,4-Cyclohexanedicarboxylic acid",1000,"1,6-Hexanediol",721,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+355,"2,6-Naphthalenedicarboxylic Acid",1000,"1,6-Hexanediol",574,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+356,Isophthalic acid,2000,"2,3-Butanediol",1139.18,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+357,"1,4-Cyclohexanedicarboxylic acid",1000,"1,7-heptanediol",806,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+358,"2,6-Naphthalenedicarboxylic Acid",1000,"1,7-heptanediol",642,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+359,"1,4-Cyclohexanedicarboxylic acid",1000,"1,8-octanediol",849,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+360,[(Carboxymethyl)(methyl)amino]acetic acid,1000,"1,8-octanediol",1099,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+361,"2,6-Naphthalenedicarboxylic Acid",1000,"1,8-octanediol",676,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+362,glutaric acid,1000,"1,4-Cyclohexanedimethanol",1081,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,amorphous,yes,1,1
+363,"2,6-Naphthalenedicarboxylic Acid",1000,"1,4-Cyclohexanedimethanol",667,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+364,"2,2′-Thiodiacetic acid",1000,"1,9-nonanediol",1067,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,crystalline,yes,1,1
+365,"1,4-Cyclohexanedicarboxylic acid",1000,"1,9-nonanediol",931,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,no,1,0
+366,Isophthalic acid,1000,"1,4-Cyclohexanediol",734.42,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+367,"2,6-Naphthalenedicarboxylic Acid",1000,"1,9-nonanediol",741,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+368,pimelic acid,1000,"1,10-decanediol",1077,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+369,sebacic acid,1000,"2-Methyl-1,3-propanediol",395,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,crystalline,yes,1,1
+370,sebacic acid,1000,"4,4′-Isopropylidenedicyclohexanol, mixture of isomers",1200,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,no,1,0
+371,sebacic acid,1000,"2,2,4-Trimethyl-1,3-pentanediol",730,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,no,1,0
+372,sebacic acid,1000,"1,4-Butanediol",450,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,crystalline,yes,1,1
+373,sebacic acid,1000,"1,5-pentanediol",520,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+374,pimelic acid,1000,"4,4′-Isopropylidenedicyclohexanol, mixture of isomers",1501,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,amorphous,yes,1,1
+375,glutaric acid,1000,"2-Methyl-1,3-propanediol",750.32,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+376,azelaic acid,1000,"4,4′-Isopropylidenedicyclohexanol, mixture of isomers",1290,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,no,1,0
+377,pimelic acid,1000,"2,2,4-Trimethyl-1,3-pentanediol",913,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+378,azelaic acid,1000,"2,2,4-Trimethyl-1,3-pentanediol",785,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,no,1,0
+379,pimelic acid,1000,"1,6-Hexanediol",730,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,crystalline,yes,1,1
+380,azelaic acid,1000,"1,6-Hexanediol",628,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,crystalline,no,1,0
+381,sebacic acid,1000,"1,6-Hexanediol",584,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,crystalline,no,1,0
+382,sebacic acid,1000,"1,7-heptanediol",654,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,crystalline,no,1,0
+383,pimelic acid,1000,"1,8-octanediol",913,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,crystalline,yes,1,1
+384,pimelic acid,1000,"2-Methyl-1,3-propanediol",618.92,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+385,sebacic acid,1000,"1,8-octanediol",723,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,crystalline,no,1,0
+386,pimelic acid,1000,"1,4-Cyclohexanedimethanol",891,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,amorphous,yes,1,1
+387,azelaic acid,1000,"1,4-Cyclohexanedimethanol",766,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,crystalline,no,1,0
+388,sebacic acid,1000,"1,4-Cyclohexanedimethanol",713,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,crystalline,no,1,0
+389,pimelic acid,1000,"1,9-nonanediol",990,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,crystalline,no,1,0
+390,sebacic acid,1000,"1,9-nonanediol",792,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,crystalline,no,1,0
+391,sebacic acid,1000,"1,10-decanediol",862,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,crystalline,no,1,0
+392,pimelic acid,1000,Diethylene Glycol,662.55,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+393,azelaic acid,1000,Diethylene Glycol,563.81,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+394,sebacic acid,1000,Diethylene Glycol,524.7,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,crystalline,yes,1,1
+395,"2,2′-Thiodiacetic acid",1000,"2-Methyl-1,3-propanediol",660.22,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+396,"1,4-Cyclohexanedicarboxylic acid",1000,Diethylene Glycol,616.33,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+397,"2,6-Naphthalenedicarboxylic Acid",1000,Diethylene Glycol,490.86,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+398,glutaric acid,1000,Diethylene Glycol,803.21,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+399,"2,2′-Thiodiacetic acid",1000,Diethylene Glycol,706.76,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+400,Isophthalic acid,2000,Diethylene Glycol,1277.55,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,yes,0,1
+401,suberic acid,1000,Diethylene Glycol,609.22,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+402,Adipic acid,1000,Diethylene Glycol,726.15,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+403,azelaic acid,1000,"2-Methyl-1,3-propanediol",526.68,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,no,1,0
+404,azelaic acid,1000,Triethylene Glycol,877.63,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,no,1,0
+405,sebacic acid,1000,Triethylene Glycol,816.75,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,amorphous,yes,1,1
+406,"1,4-Cyclohexanedicarboxylic acid",1000,Triethylene Glycol,959.39,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+407,"2,6-Naphthalenedicarboxylic Acid",1000,Triethylene Glycol,764.08,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+408,"2,2′-Thiodiacetic acid",1000,Triethylene Glycol,1100.15,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+409,"1,4-Cyclohexanedicarboxylic acid",1000,"2-Methyl-1,3-propanediol",575.75,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,amorphous,no,1,0
+410,suberic acid,1000,Triethylene Glycol,948.32,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+411,Adipic acid,1000,Triethylene Glycol,1130.33,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,no,1,0
+412,pimelic acid,1120,Tripropylene glycol,1344.32,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+413,azelaic acid,1000,Tripropylene glycol,1021.41,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+414,sebacic acid,1000,Tripropylene glycol,950.56,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+415,"1,4-Cyclohexanedicarboxylic acid",1000,Tripropylene glycol,1116.56,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+416,glutaric acid,1000,Tripropylene glycol,1455.12,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+417,"2,2′-Thiodiacetic acid",1000,Tripropylene glycol,1280.39,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+418,suberic acid,1000,Tripropylene glycol,1103.68,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+419,Succinic acid,1000,Tripropylene glycol,1628,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+420,azelaic acid,1000,Dipropylene Glycol,712.84,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+421,sebacic acid,1000,Dipropylene Glycol,663.39,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+422,"1,4-Cyclohexanedicarboxylic acid",1000,Dipropylene Glycol,779.24,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+423,"2,6-Naphthalenedicarboxylic Acid",1065,Dipropylene Glycol,660.95,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+424,glutaric acid,1000,Dipropylene Glycol,1015.52,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+425,"2,2′-Thiodiacetic acid",1000,Dipropylene Glycol,893.57,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+426,Diglycolic acid,1000,Dipropylene Glycol,1050.63,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+427,Adipic acid,1000,Dipropylene Glycol,964,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+428,Isophthalic acid,1000,"2,2-Diethyl-1,3-propanediol",835.55,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+429,azelaic acid,1000,"2,2′-Thiodiethanol",649.19,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,crystalline,yes,1,1
+430,sebacic acid,1000,"2,2′-Thiodiethanol",604.15,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,crystalline,yes,1,1
+431,"1,4-Cyclohexanedicarboxylic acid",1000,"2,2′-Thiodiethanol",709.66,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+432,glutaric acid,1000,"2,2′-Thiodiethanol",924.84,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,crystalline,yes,1,1
+433,"2,2′-Thiodiacetic acid",1000,"2,2′-Thiodiethanol",813.79,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+434,"2,2′-[ethylenebis(oxy)] bisacetic acid",1000,"2,2′-Thiodiethanol",685.92,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,no,1,0
+435,Diglycolic acid,1000,"2,2′-Thiodiethanol",956.82,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+436,Isophthalic acid,2000,"2,2′-Thiodiethanol",1471.02,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,fluid,yes,0,1
+437,Adipic acid,1000,"2,2′-Thiodiethanol",836.12,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,crystalline,yes,1,1
+438,glutaric acid,1000,"1,4-Cyclohexanediol",967.05,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,crystalline,no,1,0
+439,Succinic acid,1000,"2,2′-Thiodiethanol",1034.72,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,crystalline,yes,1,1
+440,azelaic acid,1000,Guaiacol glyceryl ether,1053.13,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+441,sebacic acid,1000,Guaiacol glyceryl ether,980.07,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+442,"1,4-Cyclohexanedicarboxylic acid",1000,Guaiacol glyceryl ether,1151.24,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+443,glutaric acid,1000,Guaiacol glyceryl ether,1500.3,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+444,"2,2′-Thiodiacetic acid",1000,Guaiacol glyceryl ether,1320.15,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+445,"2,2′-[ethylenebis(oxy)] bisacetic acid",1000,Guaiacol glyceryl ether,1112.72,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+446,Diglycolic acid,1000,Guaiacol glyceryl ether,1478.26,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+447,Adipic acid,1000,Guaiacol glyceryl ether,1356.37,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+448,pimelic acid,1000,"1,4-Cyclohexanediol",797.75,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,crystalline,no,1,0
+449,Succinic acid,1000,Guaiacol glyceryl ether,1678.55,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,fluid,yes,0,1
+450,azelaic acid,1000,"1,4-Dithiane-2,5-diol",808.84,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+451,"1,4-Cyclohexanedicarboxylic acid",1000,"1,4-Dithiane-2,5-diol",928.4,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+452,glutaric acid,1000,"1,4-Dithiane-2,5-diol",1152.29,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+453,"2,2′-Thiodiacetic acid",1000,"1,4-Dithiane-2,5-diol",1013.92,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+454,"2,2′-[ethylenebis(oxy)] bisacetic acid",1000,"1,4-Dithiane-2,5-diol",854.61,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,crystalline,no,1,0
+455,Diglycolic acid,1000,"1,4-Dithiane-2,5-diol",1135.36,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+456,Isophthalic acid,2000,"1,4-Dithiane-2,5-diol",1832.78,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+457,pimelic acid,1000,"3-methyl-1,5-pentanediol",811.63,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+458,Succinic acid,1000,"1,4-Dithiane-2,5-diol",1289.19,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,yes,0,1
+459,"quinoline-2,4-dicarboxylic acid",1000,Tripropylene glycol,929.47,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+460,"quinoline-2,4-dicarboxylic acid",1000,"4,4′-Isopropylidenedicyclohexanol, mixture of isomers",1106.82,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+461,"quinoline-2,4-dicarboxylic acid",1000,"1,4-Cyclohexanediol",561.59,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+462,"quinoline-2,4-dicarboxylic acid",1000,"2,2,4-Trimethyl-1,3-pentanediol",740.14,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+463,"quinoline-2,4-dicarboxylic acid",1000,"2,2-Dimethyl-1,3-propanediol",527.5,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+464,"quinoline-2,4-dicarboxylic acid",1000,"2-Methyl-1,3-propanediol",456.45,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,crystalline,yes,1,1
+465,"quinoline-2,4-dicarboxylic acid",1000,"1,2-Propanediol",385.39,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,fluid,yes,0,1
+466,"quinoline-2,4-dicarboxylic acid",1000,"4,8-Bis(hydroxymethyl)tricyclo[5.2.1.02,6]decane",949,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,fluid,yes,0,1
+467,"quinoline-2,4-dicarboxylic acid",1000,"2,2-Diethyl-1,3-propanediol",669.58,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,crystalline,yes,1,1
+468,"2,2′-Thiodiacetic acid",1000,"2-Methyl-1,3-propanediol",660.22,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+469,"quinoline-2,4-dicarboxylic acid",1000,"2-Butyl-2-ethyl-1,3-propanediol",774.76,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,crystalline,yes,1,1
+470,"quinoline-2,4-dicarboxylic acid",1000,"1,10-decanediol",810.49,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+471,"quinoline-2,4-dicarboxylic acid",1000,"1,9-nonanediol",774.76,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+472,"quinoline-2,4-dicarboxylic acid",1000,"1,8-octanediol",706.96,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,no,1,0
+473,"quinoline-2,4-dicarboxylic acid",1000,"1,6-Hexanediol",571.32,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,no,1,0
+474,"quinoline-2,4-dicarboxylic acid",1000,"1,5-pentanediol",503.52,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,yes,0,1
+475,"quinoline-2,4-dicarboxylic acid",1000,"1,4-Butanediol",435.71,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+476,"quinoline-2,4-dicarboxylic acid",1000,"1,3-Propanediol",385.39,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+477,"quinoline-2,4-dicarboxylic acid",1000,ethylene glycol,314.38,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,no,1,0
+478,azelaic acid,1000,"1,4-Cyclohexanediol",648.01,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,crystalline,no,1,0
+479,"quinoline-2,4-dicarboxylic acid",1000,"2,2-Diethyl-1,3-propanediol",669.58,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+480,"quinoline-2,4-dicarboxylic acid",1000,Triethylene Glycol,760.6,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+481,"quinoline-2,4-dicarboxylic acid",1000,"3-methyl-1,5-pentanediol",598.52,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,yes,0,1
+482,"2,5-furandicarboxylic acid methyl ester",500,"1,5-pentanediol",311.1,,,,,0,Ti(Opr)4; TBT,0.04,,,,,,,,,,,,,no,solid,yes,0,1
+483,"2,5-furandicarboxylic acid methyl ester",500,"1,4-butanediol",269.2,,,,,0,Ti(Opr)4; TBT,0.04,,,,,,,,,,,,,yes,crystalline,yes,1,1
+484,"2,5-furandicarboxylic acid methyl ester",500,"1,6-hexanediol",352.9,,,,,0,Ti(Opr)4; TBT,0.04,,,,,,,,,,,,,no,solid,no,0,0
+485,"2,5-furandicarboxylic acid methyl ester",500,ethylene glycol,185.4,,,,,0,Ti(Opr)4; TBT,0.04,,,,,,,,,,,,,no,solid,yes,0,1
+486,"2,5-furandicarboxylic acid methyl ester",500,"1,3-Propanediol",227.3,,,,,0,Ti(Opr)4; TBT,0.04,,,,,,,,,,,,,no,solid,yes,0,1
+487,"2,5-furandicarboxylic acid methyl ester",500,"2-Methyl-1,3-propanediol",269.2,,,,,0,Ti(Opr)4; TBT,0.04,,,,,,,,,,,,,no,solid,yes,0,1
+488,sebacic acid,1000,"1,4-Cyclohexanediol",648.01,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,crystalline,yes,1,1
+489,"2,5-furandicarboxylic acid methyl ester",500,"1,4-Cyclohexanediol",346.9,,,,,0,Ti(Opr)4; TBT,0.04,,,,,,,,,,,,,no,solid,no,0,0
+490,Diglycolic acid,1000,"1,4-Cyclohexanediol",909.62,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,crystalline,yes,1,1
+491,[(Carboxymethyl)(methyl)amino]acetic acid,1000,"1,4-Cyclohexanediol",828.98,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,amorphous,yes,1,1
+492,glutaric acid,1000,"2,2-Diethyl-1,3-propanediol",1050.64,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,no,1,0
+493,pimelic acid,1000,"2,2-Diethyl-1,3-propanediol",866.64,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,no,1,0
+494,"2,2′-Thiodiacetic acid",1000,"2,2-Diethyl-1,3-propanediol",924.48,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,no,1,0
+495,sebacic acid,1000,"2,2-Diethyl-1,3-propanediol",737.49,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,no,1,0
+496,"1,4-Cyclohexanedicarboxylic acid",1000,"2,2-Diethyl-1,3-propanediol",806.19,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+497,[(Carboxymethyl)(methyl)amino]acetic acid,1000,"2,2-Diethyl-1,3-propanediol",943.45,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+498,glutaric acid,1000,"4,8-Bis(hydroxymethyl)tricyclo[5.2.1.02,6]decane",1559.98,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+499,pimelic acid,1000,"4,8-Bis(hydroxymethyl)tricyclo[5.2.1.02,6]decane",1286.79,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,no,1,0
+500,Isophthalic acid,1000,"2-Butyl-2-ethyl-1,3-propanediol",974.13,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,no,1,0
+501,"2,2′-Thiodiacetic acid",1000,"4,8-Bis(hydroxymethyl)tricyclo[5.2.1.02,6]decane",1372.66,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+502,azelaic acid,1000,"4,8-Bis(hydroxymethyl)tricyclo[5.2.1.02,6]decane",1095.02,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,fluid,yes,0,1
+503,sebacic acid,1000,"4,8-Bis(hydroxymethyl)tricyclo[5.2.1.02,6]decane",1019.06,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,no,1,0
+504,[(Carboxymethyl)(methyl)amino]acetic acid,1000,"4,8-Bis(hydroxymethyl)tricyclo[5.2.1.02,6]decane",1400.83,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,amorphous,yes,1,1
+505,"2,6-Naphthalenedicarboxylic Acid",1000,"4,8-Bis(hydroxymethyl)tricyclo[5.2.1.02,6]decane",953.35,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+506,"2,2′-[ethylenebis(oxy)] bisacetic acid",1000,"2-Methyl-1,3-propanediol",556.48,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,yes,0,1
+507,Isophthalic acid,1000,"2,2,4-Trimethyl-1,3-pentanediol",889.02,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+508,"2,2′-[ethylenebis(oxy)] bisacetic acid",1000,"3-methyl-1,5-pentanediol",729.75,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+509,"2,2′-[ethylenebis(oxy)] bisacetic acid",1000,"1,4-Cyclohexanediol",717.28,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,yes,0,1
+510,"2,2′-[ethylenebis(oxy)] bisacetic acid",1000,"2,2-Diethyl-1,3-propanediol",816.32,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+511,"2,2′-[ethylenebis(oxy)] bisacetic acid",1000,"4,8-Bis(hydroxymethyl)tricyclo[5.2.1.02,6]decane",1156.98,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+512,"1,4-Cyclohexanedicarboxylic acid",1000,"2,3-Butanediol",549.58,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+513,Diglycolic acid,1000,"2,3-Butanediol",705.71,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,fluid,yes,0,1
+514,glutaric acid,1000,"2-Butyl-2-ethyl-1,3-propanediol",1189,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,no,1,0
+515,pimelic acid,1000,"2-Butyl-2-ethyl-1,3-propanediol",998,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,no,1,0
+516,azelaic acid,1000,"2-Butyl-2-ethyl-1,3-propanediol",860,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,fluid,no,0,0
+517,Isophthalic acid,2000,"2,2-Dimethyl-1,3-propanediol",1253.84,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+518,sebacic acid,1000,"2-Butyl-2-ethyl-1,3-propanediol",800,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,no,1,0
+519,"2,2′-[ethylenebis(oxy)] bisacetic acid",1000,"2-Butyl-2-ethyl-1,3-propanediol",900,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+520,"2,6-Naphthalenedicarboxylic Acid",1000,"2-Butyl-2-ethyl-1,3-propanediol",741,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+521,"2,2′-Thiodiacetic acid",1000,"2,2-Dimethyl-1,3-propanediol",728,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+522,"2,2′-[ethylenebis(oxy)] bisacetic acid",1000,"2,2-Dimethyl-1,3-propanediol",614,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+523,[(Carboxymethyl)(methyl)amino]acetic acid,1000,"2,2-Dimethyl-1,3-propanediol",370,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,yes,0,1
+524,"2,2′-Thiodiacetic acid",1000,"1,3-Propanediol",549,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,amorphous,yes,1,1
+525,"1,4-Cyclohexanedicarboxylic acid",1000,"1,3-Propanediol",464,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+526,sebacic acid,1000,"3-methyl-1,5-pentanediol",541,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,no,1,0
+527,Isophthalic acid,2000,"1,4-Cyclohexanedimethanol",1753.47,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+528,azelaic acid,1000,"2,2-Diethyl-1,3-propanediol",756,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,no,1,0
+529,azelaic acid,1000,"2,3-Butanediol",519,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,yes,0,1
+530,sebacic acid,1000,"2,3-Butanediol",468,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,yes,0,1
+531,glutaric acid,1000,"1,2-Propanediol",846,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,fluid,no,0,0
+532,pimelic acid,1000,"1,2-Propanediol",501,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,no,1,0
+533,"2,2′-Thiodiacetic acid",1000,"1,2-Propanediol",535,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+534,azelaic acid,1000,"1,2-Propanediol",425,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,crystalline,yes,1,1
+535,sebacic acid,1000,"1,2-Propanediol",723,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+536,sebacic acid,1000,ethylene glycol,310,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,crystalline,no,1,0
+537,"2,6-Naphthalenedicarboxylic Acid",1000,ethylene glycol,301,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+538,"2,6-Naphthalenedicarboxylic Acid",1000,ethylene glycol,301,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,no,1,0
+539,glutaric acid,1000,"2,2-Dimethyl-1,3-propanediol",845,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,no,1,0
+540,pimelic acid,1000,"2,2-Dimethyl-1,3-propanediol",683,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,no,1,0
+541,azelaic acid,1000,"2,2-Dimethyl-1,3-propanediol",592,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,crystalline,no,1,0
+542,sebacic acid,1000,"2,2-Dimethyl-1,3-propanediol",520,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,crystalline,no,1,0
+543,sebacic acid,1000,"1,3-Propanediol",380,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,crystalline,yes,1,1
+544,"2,2′-[ethylenebis(oxy)] bisacetic acid",1000,"1,3-Propanediol",449,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+545,"2,6-Naphthalenedicarboxylic Acid",1000,"1,3-Propanediol",370,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+546,Isophthalic acid,1000,"4,8-Bis(hydroxymethyl)tricyclo[5.2.1.02,6]decane",1240.69,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,crystalline,yes,1,1
+547,"1,4-Cyclohexanedicarboxylic acid",1000,"1,2-Propanediol",458,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,crystalline,yes,1,1
+548,"2,6-Naphthalenedicarboxylic Acid",1000,"1,2-Propanediol",370,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+549,"2,2′-[ethylenebis(oxy)] bisacetic acid",1000,"4,4′-Isopropylidenedicyclohexanol, mixture of isomers",1417,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,amorphous,yes,1,1
+550,"2,6-Naphthalenedicarboxylic Acid",1000,"4,4′-Isopropylidenedicyclohexanol, mixture of isomers",1167,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,no,solid,no,0,0
+551,glutaric acid,1000,"2,2,4-Trimethyl-1,3-pentanediol",1096,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,no,1,0
+552,"2,2′-Thiodiacetic acid",1000,"2,2,4-Trimethyl-1,3-pentanediol",974,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+553,"2,2′-[ethylenebis(oxy)] bisacetic acid",1000,"2,2,4-Trimethyl-1,3-pentanediol",886,,,,,0,Ti(Opr)4,0.05,,,,,,,,,,,,,yes,fluid,yes,1,1
+554,Epsilon-Caprolactone,1000,,,,,,,6.1,TBD,0,,,,18.95,Benzyl Alcohol,0,43.81,Benzoic Acid,0,0,"THF, Anhydrous",6.5,yes,crystalline,no,1,0
+555,e-Decalactone,461.93,Undecanoic delta-lactone,1000,,,,,71.68,triphenyl bismuth,0,21.98,tin octoate,0,,,,,,,,,,yes,fluid,no,1,0
+556,e-Decalactone,544.9,Delta-nonalactone,1000,,,,,84.55,triphenyl bismuth,0,25.92,tin octoate,0,,,,,,,,,,yes,fluid,no,1,0
+557,e-Decalactone,354.13,pentadecanolide,1000,,,,,54.95,triphenyl bismuth,0,16.85,tin octoate,0,,,,,,,,,,no,solid,no,0,0
+558,e-Decalactone,988.79,B-butyrolactone,1000,,,,,153.43,triphenyl bismuth,0,47.04,tin octoate,0,,,,,,,,,,yes,fluid,no,1,0
+559,e-Decalactone,429.27,5-Dodecanolide,1000,,,,,66.61,triphenyl bismuth,0,20.42,tin octoate,0,,,,,,,,,,yes,fluid,no,1,0
+560,e-Decalactone,334.6,16--hexadecanolide,1000,,,,,51.92,triphenyl bismuth,0,15.92,tin octoate,0,,,,,,,,,,no,solid,no,0,0
+561,e-Caprolactone,335.21,e-Decalactone,1000,,,,,77.58,triphenyl bismuth,0,23.79,tin octoate,0,,,,,,,,,,yes,fluid,no,1,0
+562,delta-Valerolactone,294.04,e-Decalactone,1000,,,,,77.58,triphenyl bismuth,0,23.79,tin octoate,0,,,,,,,,,,yes,fluid,no,1,0
+563,Epsilon-Caprolactone,491.69,Glycolide,1000,,,,,8.99,TBD,0,,,,18.63,Benzyl Alcohol,0,,,,,,,no,solid,no,0,0
+564,e-Decalactone,745.79,e-Caprolactone,1000,,,,,115.72,triphenyl bismuth,0,35.48,tin octoate,0,,,,,,,,,,yes,fluid,no,1,0
+565,e-Decalactone,850.23,delta-Valerolactone,1000,,,,,131.93,triphenyl bismuth,0,40.45,tin octoate,0,,,,,,,,,,yes,fluid,no,1,0
+566,Massoia Lactone,736.95,e-caprolactone,1000,,,,,115.72,triphenyl bismuth,0,35.48,tin octoate,0,,,,,,,,,,yes,crystalline,no,1,0
+567,pentadecanolide,1053.01,e-caprolactone,1000,,,,,115.72,triphenyl bismuth,0,35.48,tin octoate,0,,,,,,,,,,yes,crystalline,no,1,0
+568,B-butyrolactone,377.12,e-caprolactone,1000,,,,,115.72,triphenyl bismuth,0,35.48,tin octoate,0,,,,,,,,,,yes,crystalline,no,1,0
+569,Glycolide,508.45,Epsilon-Caprolactone,1000,,,,,9.15,TBD,0,,,,18.95,Benzyl Alcohol,0,,,,,,,no,solid,yes,0,1
+570,e-caprolactone,237.42,pentadecanolide,1000,,,,,54.95,triphenyl bismuth,0,16.85,tin octoate,0,,,,,,,,,,yes,crystalline,no,1,0
+571,e-caprolactone,662.91,B-butyrolactone,1000,,,,,153.43,triphenyl bismuth,0,47.04,tin octoate,0,,,,,,,,,,yes,fluid,yes,1,1
+572,B-propiolactone,1000,,,,,,,9.66,TBD,0,,,,30.01,Benzyl Alcohol,0,69.39,Benzoic Acid,0,0,"THF, Anhydrous",6.5,yes,crystalline,yes,1,1
+573,massoia lactone,349.93,pentadecanolide,1000,,,,,54.95,triphenyl bismuth,0,16.85,tin octoate,0,,,,,,,,,,no,solid,no,0,0
+574,massoia lactone,330.63,16--hexadecanolide,1000,,,,,51.92,triphenyl bismuth,0,15.92,tin octoate,0,,,,,,,,,,no,solid,no,0,0
+575,Delta-Valerolactone,1000,,,,,,,6.95,TBD,0,,,,21.6,Benzyl Alcohol,0,49.94,Benzoic Acid,0,0,"THF, Anhydrous",6.5,yes,crystalline,yes,1,1
+576,massoia lactone,840.14,delta-Valerolactone,1000,,,,,131.93,triphenyl bismuth,0,40.45,tin octoate,0,,,,,,,,,,yes,crystalline,no,1,0
+577,B-propiolactone,315.66,Epsilon-Caprolactone,1000,,,,,9.15,TBD,0,,,,18.95,Benzyl Alcohol,0,43.81,Benzoic Acid,0,0,"THF, Anhydrous",6.5,yes,crystalline,yes,1,1
+578,Epsilon-Caprolactone,791.98,B-propiolactone,1000,,,,,14.49,TBD,0,,,,30.01,Benzyl Alcohol,0,69.39,Benzoic Acid,0,0,"THF, Anhydrous",6.5,yes,crystalline,yes,1,1
+579,Delta-Valerolactone,438.58,Epsilon-Caprolactone,1000,,,,,9.15,TBD,0,,,,18.95,Benzyl Alcohol,0,43.81,Benzoic Acid,0,0,"THF, Anhydrous",6.5,yes,crystalline,yes,1,1
+580,B-butyrolactone,179.07,pentadecanolide,1000,,,,,54.95,triphenyl bismuth,0,16.85,tin octoate,0,,,,,,,,,,yes,crystalline,no,1,0
+581,Epsilon-Caprolactone,570.02,Delta-Valerolactone,1000,,,,,10.43,TBD,0,,,,21.6,Benzyl Alcohol,0,49.94,Benzoic Acid,0,0,"THF, Anhydrous",6.5,yes,crystalline,yes,1,1
+582,pentadecanolide,1396.1,B-butyrolactone,1000,,,,,153.43,triphenyl bismuth,0,47.04,tin octoate,0,,,,,,,,,,yes,amorphous,no,1,0
+583,delta-Valerolactone,208.25,pentadecanolide,1000,,,,,54.95,triphenyl bismuth,0,16.85,tin octoate,0,,,,,,,,,,yes,crystalline,no,1,0
+584,pentadecanolide,1200.46,delta-Valerolactone,1000,,,,,131.93,triphenyl bismuth,0,40.45,tin octoate,0,,,,,,,,,,yes,crystalline,no,1,0
+585,delta-Valerolactone,581.48,b-butryolactone,1000,,,,,153.43,triphenyl bismuth,0,47.04,tin octoate,0,,,,,,,,,,yes,fluid,yes,1,1
+586,Delta-Valerolactone,694.7,B-propiolactone,1000,,,,,14.49,TBD,0,,,,30.01,Benzyl Alcohol,0,69.39,Benzoic Acid,0,0,"THF, Anhydrous",6.5,yes,crystalline,yes,1,1
+587,b-butryolactone,429.93,delta-Valerolactone,1000,,,,,131.93,triphenyl bismuth,0,40.45,tin octoate,0,,,,,,,,,,yes,fluid,yes,1,1
+588,B-propiolactone,359.87,Delta-Valerolactone,1000,,,,,10.43,TBD,0,,,,21.6,Benzyl Alcohol,0,49.94,Benzoic Acid,0,0,"THF, Anhydrous",6.5,yes,crystalline,yes,1,1
+589,Glycolide,805.37,B-propiolactone,1000,,,,,14.49,TBD,0,,,,30.01,Benzyl Alcohol,0,,,,,,,no,solid,no,0,0
+590,B-propiolactone,310.42,Glycolide,1000,,,,,8.99,TBD,0,,,,18.63,Benzyl Alcohol,0,,,,,,,no,solid,no,0,0
+591,lactide,1000.07,B-propiolactone,1000,,,,,14.49,TBD,0,,,,30.01,Benzyl Alcohol,0,69.39,Benzoic Acid,0,0,"THF, Anhydrous",6.5,yes,crystalline,yes,1,1
+592,B-propiolactone,249.98,lactide,1000,,,,,7.24,TBD,0,,,,15.01,Benzyl Alcohol,0,34.69,Benzoic Acid,0,0,"THF, Anhydrous",6.5,yes,crystalline,yes,1,1
+593,Glycolide,579.65,delta-Valerolactone,1000,,,,,10.43,TBD,0,,,,21.6,Benzyl Alcohol,0,,,,,,,no,solid,no,0,0
+594,delta-Valerolactone,431.29,Glycolide,1000,,,,,8.99,TBD,0,,,,18.63,Benzyl Alcohol,0,,,,,,,no,solid,yes,0,1
+595,lactide,719.79,delta-Valerolactone,1000,,,,,10.43,TBD,0,,,,21.6,Benzyl Alcohol,0,49.94,Benzoic Acid,0,0,"THF, Anhydrous",6.5,yes,fluid,yes,1,1
+596,delta-Valerolactone,347.33,lactide,1000,,,,,7.24,TBD,0,,,,15.01,Benzyl Alcohol,0,34.69,Benzoic Acid,0,0,"THF, Anhydrous",6.5,yes,fluid,yes,1,1
+597,e-Decalactone,1000,,,,,,,77.58,Triphenyl Bismuth,0,,,,,,,,,,,,,yes,fluid,no,1,0
+598,pentadecanolide,1000,,,,,,,54.95,Triphenyl Bismuth,0,,,,,,,,,,,,,yes,crystalline,yes,1,1
+599,16--hexadecanolide,1000,,,,,,,51.92,Triphenyl Bismuth,0,,,,,,,,,,,,,yes,crystalline,yes,1,1
+600,Coumarin,1000,,,,,,,90.38,Triphenyl Bismuth,0,,,,,,,,,,,,,yes,crystalline,no,1,0
+601,B-butyrolactone,1000,,,,,,,153.43,Triphenyl Bismuth,0,,,,,,,,,,,,,no,solid,yes,0,1
+602,Undecanoic delta-lactone,639.28,lactide,1000,,,,,91.64,triphenyl bismuth,0,28.1,tin octoate,0,,,,,,,,,,yes,fluid,yes,1,1
+603,delta-Nonalactone,541.94,lactide,1000,,,,,91.64,triphenyl bismuth,0,28.1,tin octoate,0,,,,,,,,,,yes,crystalline,no,1,0
+604,pentadecanolide,833.9,lactide,1000,,,,,91.64,triphenyl bismuth,0,28.1,tin octoate,0,,,,,,,,,,yes,crystalline,yes,1,1
+605,5-Dodecanolide,1000,,,,,,,66.61,Triphenyl Bismuth,0,,,,,,,,,,,,,yes,fluid,yes,1,1
+606,B-butyrolactone,298.65,lactide,1000,,,,,91.64,triphenyl bismuth,0,28.1,tin octoate,0,,,,,,,,,,yes,crystalline,no,1,0
+607,5-Dodecanolide,687.92,lactide,1000,,,,,91.64,triphenyl bismuth,0,28.1,tin octoate,0,,,,,,,,,,yes,fluid,yes,1,1
+608,16--hexadecanolide,882.57,lactide,1000,,,,,91.64,triphenyl bismuth,0,28.1,tin octoate,0,,,,,,,,,,yes,amorphous,yes,1,1
+609,coumarin,506.97,lactide,1000,,,,,91.64,triphenyl bismuth,0,28.1,tin octoate,0,,,,,,,,,,yes,crystalline,no,1,0
+610,lactide,423.29,e-Decalactone,1000,,,,,77.58,triphenyl bismuth,0,23.79,tin octoate,0,,,,,,,,,,yes,fluid,no,1,0
+611,lactide,428.37,Massoia Lactone,1000,,,,,78.52,triphenyl bismuth,0,24.07,tin octoate,0,,,,,,,,,,yes,fluid,yes,1,1
+612,lactide,391.06,Undecanoic delta-lactone,1000,,,,,71.68,triphenyl bismuth,0,21.98,tin octoate,0,,,,,,,,,,yes,fluid,no,1,0
+613,lactide,461.3,Delta-nonalactone,1000,,,,,84.55,triphenyl bismuth,0,25.92,tin octoate,0,,,,,,,,,,yes,fluid,yes,1,1
+614,lactide,299.8,pentadecanolide,1000,,,,,54.95,triphenyl bismuth,0,16.85,tin octoate,0,,,,,,,,,,yes,fluid,yes,1,1
+616,lactide,363.41,5-Dodecanolide,1000,,,,,66.61,triphenyl bismuth,0,20.42,tin octoate,0,,,,,,,,,,yes,fluid,no,1,0
+617,lactide,283.26,16--hexadecanolide,1000,,,,,51.92,triphenyl bismuth,0,15.92,tin octoate,0,,,,,,,,,,yes,crystalline,no,1,0
+618,e-Decalactone,733.39,glycolide,1000,,,,,113.8,triphenyl bismuth,0,34.89,tin octoate,0,,,,,,,,,,no,solid,yes,0,1
+619,Massoia Lactone,724.69,glycolide,1000,,,,,113.8,triphenyl bismuth,0,34.89,tin octoate,0,,,,,,,,,,no,solid,no,0,0
+620,Undecanoic delta-lactone,793.83,glycolide,1000,,,,,113.8,triphenyl bismuth,0,34.89,tin octoate,0,,,,,,,,,,no,solid,yes,0,1
+621,delta-Nonalactone,672.96,glycolide,1000,,,,,113.8,triphenyl bismuth,0,34.89,tin octoate,0,,,,,,,,,,no,solid,yes,0,1
+622,pentadecanolide,1035.5,glycolide,1000,,,,,113.8,triphenyl bismuth,0,34.89,tin octoate,0,,,,,,,,,,no,solid,yes,0,1
+623,B-butyrolactone,370.85,glycolide,1000,,,,,113.8,triphenyl bismuth,0,34.89,tin octoate,0,,,,,,,,,,no,solid,yes,0,1
+624,5-Dodecanolide,854.23,glycolide,1000,,,,,113.8,triphenyl bismuth,0,34.89,tin octoate,0,,,,,,,,,,no,fluid,yes,0,1
+625,Glycolide,1000,,,,,,,6,TBD,0,,,,18.63,Benzyl Alcohol,0,,,,,,,no,solid,no,0,0
+626,16--hexadecanolide,1095.93,glycolide,1000,,,,,113.8,triphenyl bismuth,0,34.89,tin octoate,0,,,,,,,,,,no,solid,yes,0,1
+627,coumarin,629.53,glycolide,1000,,,,,113.8,triphenyl bismuth,0,34.89,tin octoate,0,,,,,,,,,,no,solid,yes,0,1
+628,glycolide,340.88,e-Decalactone,1000,,,,,77.58,triphenyl bismuth,0,23.79,tin octoate,0,,,,,,,,,,yes,fluid,yes,1,1
+629,glycolide,344.97,Massoia Lactone,1000,,,,,78.52,triphenyl bismuth,0,24.07,tin octoate,0,,,,,,,,,,no,fluid,yes,0,1
+630,glycolide,314.93,Undecanoic delta-lactone,1000,,,,,71.68,triphenyl bismuth,0,21.98,tin octoate,0,,,,,,,,,,yes,fluid,no,1,0
+631,glycolide,371.5,Delta-nonalactone,1000,,,,,84.55,triphenyl bismuth,0,25.92,tin octoate,0,,,,,,,,,,no,fluid,yes,0,1
+632,glycolide,241.43,pentadecanolide,1000,,,,,54.95,triphenyl bismuth,0,16.85,tin octoate,0,,,,,,,,,,yes,fluid,yes,1,1
+633,glycolide,674.12,B-butyrolactone,1000,,,,,153.43,triphenyl bismuth,0,47.04,tin octoate,0,,,,,,,,,,no,solid,yes,0,1
+634,glycolide,292.66,5-Dodecanolide,1000,,,,,66.61,triphenyl bismuth,0,20.42,tin octoate,0,,,,,,,,,,no,solid,no,0,0
+635,glycolide,228.12,16--hexadecanolide,1000,,,,,51.92,triphenyl bismuth,0,15.92,tin octoate,0,,,,,,,,,,yes,fluid,yes,1,1
+636,Lactide,620.88,Glycolide,1000,,,,,8.99,TBD,0,,,,18.63,Benzyl Alcohol,0,,,,,,,no,solid,yes,0,1
+637,glycolide,397.12,coumarin,1000,,,,,90.38,triphenyl bismuth,0,27.71,tin octoate,0,,,,,,,,,,no,solid,yes,0,1
+638,e-Decalactone,582.49,coumarin,1000,,,,,90.38,triphenyl bismuth,0,27.71,tin octoate,0,,,,,,,,,,yes,crystalline,no,1,0
+639,Massoia Lactone,575.58,coumarin,1000,,,,,90.38,triphenyl bismuth,0,27.71,tin octoate,0,,,,,,,,,,yes,crystalline,no,1,0
+640,Undecanoic delta-lactone,630.49,coumarin,1000,,,,,90.38,triphenyl bismuth,0,27.71,tin octoate,0,,,,,,,,,,,,no,0,0
+641,delta-Nonalactone,534.49,coumarin,1000,,,,,90.38,triphenyl bismuth,0,27.71,tin octoate,0,,,,,,,,,,,,no,0,0
+642,pentadecanolide,822.43,coumarin,1000,,,,,90.38,triphenyl bismuth,0,27.71,tin octoate,0,,,,,,,,,,,,yes,0,1
+643,B-butyrolactone,294.55,coumarin,1000,,,,,90.38,triphenyl bismuth,0,27.71,tin octoate,0,,,,,,,,,,yes,crystalline,no,1,0
+644,5-Dodecanolide,678.46,coumarin,1000,,,,,90.38,triphenyl bismuth,0,27.71,tin octoate,0,,,,,,,,,,yes,crystalline,no,1,0
+645,coumarin,429.19,e-Decalactone,1000,,,,,77.58,triphenyl bismuth,0,23.79,tin octoate,0,,,,,,,,,,yes,fluid,no,1,0
+646,Glycolide,402.66,Lactide,1000,,,,,7.24,TBD,0,,,,15.01,Benzyl Alcohol,0,,,,,,,no,solid,no,0,0
+647,coumarin,303.98,pentadecanolide,1000,,,,,54.95,triphenyl bismuth,0,16.85,tin octoate,0,,,,,,,,,,no,fluid,yes,0,1
+648,coumarin,848.76,B-butyrolactone,1000,,,,,153.43,triphenyl bismuth,0,47.04,tin octoate,0,,,,,,,,,,yes,crystalline,yes,1,1
+649,coumarin,287.21,16--hexadecanolide,1000,,,,,51.92,triphenyl bismuth,0,15.92,tin octoate,0,,,,,,,,,,no,solid,yes,0,1
+650,e-Caprolactone,390.52,coumarin,1000,,,,,90.38,triphenyl bismuth,0,27.71,tin octoate,0,,,,,,,,,,yes,crystalline,no,1,0
+651,delta-Valerolactone,342.55,coumarin,1000,,,,,90.38,triphenyl bismuth,0,27.71,tin octoate,0,,,,,,,,,,yes,crystalline,no,1,0
+652,Epsilon-Caprolactone,395.96,Lactide,1000,,,,,7.24,TBD,0,,,,15.01,Benzyl Alcohol,0,34.69,Benzoic Acid,0,0,"THF, Anhydrous",0,yes,crystalline,yes,1,1
+653,coumarin,640.18,e-Caprolactone,1000,,,,,115.72,triphenyl bismuth,0,35.48,tin octoate,0,,,,,,,,,,yes,crystalline,no,1,0
+654,coumarin,729.82,delta-Valerolactone,1000,,,,,131.93,triphenyl bismuth,0,40.45,tin octoate,0,,,,,,,,,,yes,crystalline,no,1,0
+655,Massoia Lactone,494.07,e-Decalactone,1000,,,,,77.58,triphenyl bismuth,0,23.79,tin octoate,0,,,,,,,,,,yes,fluid,no,1,0
+656,Undecanoic delta-lactone,541.2,e-Decalactone,1000,,,,,77.58,triphenyl bismuth,0,23.79,tin octoate,0,,,,,,,,,,yes,fluid,no,1,0
+657,delta-Nonalactone,458.8,e-Decalactone,1000,,,,,77.58,triphenyl bismuth,0,23.79,tin octoate,0,,,,,,,,,,yes,fluid,no,1,0
+658,pentadecanolide,705.96,e-Decalactone,1000,,,,,77.58,triphenyl bismuth,0,23.79,tin octoate,0,,,,,,,,,,yes,crystalline,no,1,0
+659,B-butyrolactone,252.83,e-Decalactone,1000,,,,,77.58,triphenyl bismuth,0,23.79,tin octoate,0,,,,,,,,,,yes,fluid,no,1,0
+660,5-Dodecanolide,582.38,e-Decalactone,1000,,,,,77.58,triphenyl bismuth,0,23.79,tin octoate,0,,,,,,,,,,yes,fluid,no,1,0
+661,16--hexadecanolide,747.17,e-Decalactone,1000,,,,,77.58,triphenyl bismuth,0,23.79,tin octoate,0,,,,,,,,,,yes,crystalline,no,1,0
+662,Pimelic Acid,1356.34,"1,5-pentanediol",881.95,,,,,2.41,Ti(Opr)4,0,,,,,,,,,,,,,yes,crystalline,no,1,0
