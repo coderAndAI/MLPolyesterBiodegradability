@@ -61,7 +61,7 @@ pca_result = apply_pca(X, df)
 
 # PCA plot
 plt.scatter(df['PC1'][:len(fps)], df['PC2'][:len(fps)], c='k', label="Fransen et al.", s=15)
-plt.scatter(df['PC1'][len(fps)+1:], df['PC2'][len(fps)+1:], c='orangered', label="In-house", s=15)
+plt.scatter(df['PC1'][len(fps):], df['PC2'][len(fps):], c='orangered', label="In-house", s=15)
 plt.xlabel('Principal Component 1', fontsize=13)
 plt.ylabel('Principal Component 2', fontsize=13)
 plt.yticks(fontsize=12)

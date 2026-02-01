@@ -51,7 +51,7 @@ descriptors_tsne = tsne.fit_transform(X)
 
 # Plot
 plt.scatter(descriptors_tsne[:len(fps), 0], descriptors_tsne[:len(fps), 1], c='k', label='Fransen et al.', s=15)
-plt.scatter(descriptors_tsne[len(fps)+1:, 0], descriptors_tsne[len(fps)+1:, 1], c='orangered', label='In-house', s=15)
+plt.scatter(descriptors_tsne[len(fps):, 0], descriptors_tsne[len(fps):, 1], c='orangered', label='In-house', s=15)
 plt.xlabel('t-SNE Dimension 1', fontsize=13)
 plt.ylabel('t-SNE Dimension 2', fontsize=13)
 plt.yticks(fontsize=12)

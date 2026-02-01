@@ -1,3 +1,7 @@
+import logging
+import traceback
+from pathlib import Path
+
 import numpy as np
 import pandas as pd
 from rdkit import Chem
@@ -6,22 +10,37 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.base import BaseEstimator, TransformerMixin
 from joblib import load
 
+logger = logging.getLogger(__name__)
+
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+DATA_DIR = PROJECT_ROOT / "data"
+MODELS_DIR = PROJECT_ROOT / "models"
+
+
+def _parse_smiles(smiles):
+    """Parse SMILES string to RDKit mol, trying sanitized first then unsanitized."""
+    mol = Chem.MolFromSmiles(smiles)
+    if mol is None:
+        mol = Chem.MolFromSmiles(smiles, sanitize=False)
+    if mol is None:
+        logger.warning("Failed to parse SMILES: %s", smiles)
+    return mol
+
 
 def get_data():
-    df = pd.read_csv('../data/inhouse_data.csv')
+    df = pd.read_csv(DATA_DIR / 'inhouse_data.csv')
     y = df['Biodegradability_yes']
     y = LabelEncoder().fit_transform(y)
     y = np.array(y)
 
-    mols = df['Trimer'].apply(
-        lambda x: Chem.MolFromSmiles(x) if Chem.MolFromSmiles(x) else Chem.MolFromSmiles(x, False))
+    mols = df['Trimer'].apply(_parse_smiles)
     mols = np.array(mols)
 
     return mols, y
 
 
 def get_fransen_data():
-    df = pd.read_csv('../data/fransen_data.csv')
+    df = pd.read_csv(DATA_DIR / 'fransen_data.csv')
 
     # Remove rows with NaN values in biodeg column, and duplicates
     df = df.dropna(subset=['Biodegradability_yes'], ignore_index=True)
@@ -35,8 +54,7 @@ def get_fransen_data():
     y = LabelEncoder().fit_transform(y)
     y = np.array(y)
 
-    mols = df['Trimer'].apply(
-        lambda x: Chem.MolFromSmiles(x) if Chem.MolFromSmiles(x) else Chem.MolFromSmiles(x, False))
+    mols = df['Trimer'].apply(_parse_smiles)
     mols = np.array(mols)
 
     return mols, y
@@ -46,20 +64,19 @@ def inside_validity_domain(test_mol):
     mols_new, _ = get_data()
 
     # get model info
-    best_model = load('../models/inhouse.joblib')
+    best_model = load(MODELS_DIR / 'inhouse.joblib')
 
-    features = best_model.named_steps['fingerprint'].transform(mols_new) #features before zero variance step
-    test_features = best_model.named_steps['fingerprint'].transform(Chem.MolFromSmiles(test_mol))
+    features = best_model.named_steps['fingerprint'].transform(mols_new)
+    test_features = best_model.named_steps['fingerprint'].transform(
+        np.array([Chem.MolFromSmiles(test_mol)])
+    )
 
     min_vals = features.min(axis=0)
     max_vals = features.max(axis=0)
     out_of_range = (test_features < min_vals) | (test_features > max_vals)
     f = out_of_range.sum(axis=1)
 
-    if f.sum() > 0:
-        return False
-    else:
-        return True
+    return f.sum() == 0
 
 
 class getFingerprints(BaseEstimator, TransformerMixin):  # custom transformer for the pipeline
@@ -95,26 +112,20 @@ class getMolDescriptors(BaseEstimator, TransformerMixin):  # custom transformer 
     def transform(self, X, y=None):
         mols = pd.Series(X)
 
-        descriptors = []
+        all_descriptors = []
         for i in range(len(mols)):
             res = []
             for nm, fn in Descriptors._descList:
-                # some of the descriptor functions can throw errors if they fail, catch those here:
                 try:
                     val = fn(mols[i])
-                except:
-                    # print the error message:
-                    import traceback
-                    traceback.print_exc()
-                    # and set the descriptor value to whatever missingVal is
+                except Exception:
+                    logger.debug("Descriptor %s failed for molecule %d", nm, i, exc_info=True)
                     val = self.missingVal
                 res.append(val)
-            res = np.clip(res, a_min=None, a_max=np.finfo(np.float32).max)  # cap values at maximum for float32 (10^38)
-            descriptors.append(res)
-        # get X
-        X = np.array(descriptors)
-        X = np.array([np.array(descriptors) for descriptors in X])
+            res = np.clip(res, a_min=None, a_max=np.finfo(np.float32).max)
+            all_descriptors.append(res)
 
+        X = np.array(all_descriptors, dtype=np.float64)
         return X
 
 
@@ -145,7 +156,7 @@ class getFP_WithPred(BaseEstimator, TransformerMixin): # custom transformer for 
     def transform(self, X, y=None):
         mols = pd.Series(X)
 
-        best_model = load('../models/chain_step1.joblib')
+        best_model = load(MODELS_DIR / 'chain_step1.joblib')
         pred = best_model.predict_proba(mols)
 
         # set up fingerprint generation
